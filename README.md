@@ -1,2 +1,1 @@
-# notes
-Notes &amp; links on web development
+# Notes &amp; links on web development
