@@ -18,9 +18,15 @@
  - https://www.reddit.com/r/javascript/
  - https://hashnode.com/n/javascript
  - https://javascript.plainenglish.io/
+ - https://alligator.io/js/
 ### React
  - https://hackernoon.com/tagged/react
  - https://hashnode.com/n/reactjs
+ - https://alligator.io/react/
+### Angular
+ - https://alligator.io/angular/
+### Vue
+ - https://alligator.io/vuejs/
 ## Java news
  - https://dzone.com/java-jdk-development-tutorials-tools-news
  - https://www.infoworld.com/category/java/
