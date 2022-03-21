@@ -5,8 +5,9 @@
  - https://www.wired.com/tag/programming/
  - https://hackernoon.com/ https://hackernoon.com/tagged/software-development
  - Geek news: https://news.ycombinator.com/
-## Web development
+## Web design & development
  - https://hashnode.com/n/web-development
+ - https://www.smashingmagazine.com/category/web-design/
 ## Javascript news
  - https://javascriptweekly.com/
  - https://www.infoworld.com/category/javascript/
