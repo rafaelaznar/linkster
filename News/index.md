@@ -30,6 +30,7 @@
  - https://hashnode.com/n/reactjs
  - https://alligator.io/react/
 ### Angular
+ - https://blog.angular.io/
  - https://alligator.io/angular/
  - https://www.smashingmagazine.com/category/angular
 ### Vue
