@@ -10,6 +10,17 @@
  - CLASSIC ADVANCED: https://wtfjs.com/
  - MODERN: https://youmightnotneedjquery.com/
  - MODERN: https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html
+### Interview questions
+ - https://www.javatpoint.com/javascript-interview-questions
+ - https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
+ - https://gitplanet.com/project/javascript-interview-questions
+ - https://mindmajix.com/javascript-interview-questions
+ - https://www.softwaretestinghelp.com/javascript-interview-questions/
+ - https://www.interviewbit.com/javascript-interview-questions/
+ - https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
+ - https://www.toptal.com/javascript/interview-questions
+ - https://hackr.io/blog/javascript-interview-questions
+ - https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions
 ## Documentation
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - https://devdocs.io/javascript/
@@ -49,3 +60,4 @@
   - https://angular.io/guide/rx-library
   - https://rxmarbles.com/
   - https://www.tutorialspoint.com/rxjs/index.htm
+
