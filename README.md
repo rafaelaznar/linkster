@@ -1,5 +1,5 @@
 # Roadmap &amp; links on web development
 
-[News](News/index.md)
+[News Links](News/index.md)
 
-[Javascript](Javascript/index.md)
+[Javascript Links](Javascript/index.md)
