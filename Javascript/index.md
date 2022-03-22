@@ -22,6 +22,8 @@
  - https://hackr.io/blog/javascript-interview-questions
  - https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions
  - https://www.dotnettricks.com/learn/javascript/javascript-interview-questions
+### Functional programming
+ - https://opensource.com/article/17/6/functional-javascript
 ## Documentation
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - https://devdocs.io/javascript/
