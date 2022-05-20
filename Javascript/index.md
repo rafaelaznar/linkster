@@ -36,6 +36,7 @@
 ## Online books
   - MODERN: https://eloquentjavascript.net/
   - MODERN: https://github.com/getify/You-Dont-Know-JS
+  - MODERN: https://exploringjs.com/
   - CLASSIC ADVANCED: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
     - http://speakingjs.com/es5/index.html
   - ADVANCED MODERN: 
