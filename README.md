@@ -5,3 +5,5 @@
 [Javascript Links](Javascript/index.md)
 
 [Java Links](Java/index.md)
+
+[CORS](Cors/index.md)
