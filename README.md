@@ -7,3 +7,7 @@
 [Java Links](Java/index.md)
 
 [CORS](Cors/index.md)
+
+[GIT](Git/index.md)
+
+[GEEK](Geek/index.md)
