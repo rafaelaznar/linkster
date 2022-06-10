@@ -35,6 +35,7 @@ IMPORTANT: note that if you don't set the author's email, Github won't consider 
 git config –global user.name "Your Name"
 git config –global user.email "you@example.com"
 ```
+* you can also edit manually ~/.gitconfig
 * you can fix identity for a commit: ```git commit –amend –reset-author ```
   * ```git commit --amend --author="Author Name <email@address.com>" --no-edit```
   * https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit
