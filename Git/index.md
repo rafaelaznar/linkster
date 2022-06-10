@@ -60,6 +60,7 @@ git clone --depth 1 "$1" temp-linecount-repo &&
   cloc temp-linecount-repo &&
   rm -rf temp-linecount-repo
 ```
+* call example: ```raznara@SP-PC01:~$ ./cloc-git https://github.com/rafaelaznar/my-project.git```
 * https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository
 * also see command ```git ls-files | xargs wc -l``` from https://gist.github.com/mandiwise/dc53cb9da00856d7cdbb
 
