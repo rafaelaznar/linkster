@@ -38,3 +38,17 @@ git config –global user.email "you@example.com"
 * you can fix identity for a commit: ```git commit –amend –reset-author ```
   * ```git commit --amend --author="Author Name <email@address.com>" --no-edit```
   * https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit
+* Creating a repo:
+```
+Create repo in github mysourcerepo (note master now is main branch)
+Localy:
+  git init
+  git add .
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/rafaelaznar/mysourcerepo
+  git pull origin main –allow-unrelated-histories
+  git push -u origin main (need your token)
+```
+
+
