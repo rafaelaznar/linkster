@@ -144,4 +144,5 @@ fi
 ### About GITHUB renaming master branch to main
   * 'master' word is considered offensive by some, and so it was replaced with ‘main’, but in the context of git, the word “master” is not used in the same way as “master/slave”. Master in git is derived from the Latin word “magester”, meaning chief or teacher. The consequence is that if you don't want to end up with two branches, main and master, you to rename master to main in every new project before push to github in order to eliminate master.
   * https://medium.datadriveninvestor.com/why-githubs-change-from-master-to-main-is-not-the-solution-a3ac38cc48dd
+  * Banning a word because you think it’s offensive is basically telling us what we should and should not be offended by: https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe
   * https://github.com/github/renaming
