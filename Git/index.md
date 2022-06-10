@@ -22,8 +22,7 @@
 * Revert github commits: 
   - Clone proyect
   - Localy perform a hard reset to the last commit you want to preserve
-  - From command line execute a forced push: 
-```git git push origin master --force ```
+  - From command line execute a forced push: ```git push origin master --force ```
   * from: https://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github
 * Setting origin & upstream
 ```git
@@ -36,4 +35,6 @@ git set-url origin https://github.com/rafaelaznar/angular-router-example-02.git
 git config –global user.name "Your Name"
 git config –global user.email "you@example.com"
 ```
-  * you can also fix your identity: ```git git commit –amend –reset-author ```
+* you can fix identity for a commit: ```git commit –amend –reset-author ```
+  * ´´´git commit --amend --author="Author Name <email@address.com>" --no-edit´´´
+  * https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit
