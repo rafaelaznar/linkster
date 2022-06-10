@@ -61,6 +61,7 @@ git clone --depth 1 "$1" temp-linecount-repo &&
   rm -rf temp-linecount-repo
 ```
 * https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository
+* also see command ```git ls-files | xargs wc -l``` from https://gist.github.com/mandiwise/dc53cb9da00856d7cdbb
 
 ### About GITHUB renaming master branch to main
   * 'master' word is considered offensive by some, and so it was replaced with ‘main’, but in the context of git, the word “master” is not used in the same way as “master/slave”. Master in git is derived from the Latin word “magester”, meaning chief or teacher. The consequence is that if you don't want to end up with two branches, main and master, you to rename master to main in every new project before push to github in order to eliminate master.
