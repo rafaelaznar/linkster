@@ -1,14 +1,15 @@
-# Git Selected Links
+# Git Selected Online Links
 * https://en.wikipedia.org/wiki/Git
 
 ## CheatSheets
 
 * https://education.github.com/git-cheat-sheet-education.pdf
 
-## Tutorials
+## Tutorials & reference books
 
 * https://www.atlassian.com/git/tutorials
 * https://rogerdudler.github.io/git-guide/
+* https://git-scm.com/book/en/v2
 
 ## Interesting links
 
