@@ -30,5 +30,10 @@
 git remote add origin https://github.com/rafaelaznar/angular-router-example-02.git
 git remote -v
 git set-url origin https://github.com/rafaelaznar/angular-router-example-02.git
-
 ```
+* setting autor and email: IMPORTANT: note that if you don't set the author's email, Github won't consider your contributions as yours!
+```git
+git config –global user.name "Your Name"
+git config –global user.email "you@example.com"
+```
+  * you can also fix your identity: ```git git commit –amend –reset-author ```
