@@ -18,7 +18,7 @@
 How to merge two repos presenving history: https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories
 
 ### Revert github commits: 
-  - Clone proyect
+  - Clone project
   - Localy perform a hard reset to the last commit you want to preserve
   - From command line execute a forced push: ```git push origin master --force ```
   * from: https://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github
