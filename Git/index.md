@@ -22,5 +22,13 @@
 * Revert github commits: 
   - Clone proyect
   - Localy perform a hard reset to the last commit you want to preserve
-  - From command line execute a forced push: git push origin master --force
+  - From command line execute a forced push: 
+```git git push origin master --force ```
   * from: https://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github
+* Setting origin & upstream
+```git
+git remote add origin https://github.com/rafaelaznar/angular-router-example-02.git
+git remote -v
+git set-url origin https://github.com/rafaelaznar/angular-router-example-02.git
+
+```
