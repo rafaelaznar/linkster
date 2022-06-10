@@ -70,6 +70,77 @@ git clone --depth 1 "$1" temp-linecount-repo &&
 * https://stackoverflow.com/questions/26881441/can-you-get-the-number-of-lines-of-code-from-a-github-repository
 * also see command ```git ls-files | xargs wc -l``` from https://gist.github.com/mandiwise/dc53cb9da00856d7cdbb
 
+### Git and prompt
+* Activate colors
+```
+git config --global color.status auto
+git config --global color.branch auto
+```
+you can also edit manually ~/.gitconfig
+```
+[color "status"]
+  added = blue 
+  changed = yellow 
+  untracked = white ul
+[color "diff"]
+  meta = white bold
+  frag = magenta ul 
+  old = red bold
+  new = green bold
+[color]
+  ui = auto
+  branch = auto
+```
+* Showing branch: you should add this lines to the .bashrc lines
+```
+function parse_git_dirty {
+  status=`git status 2> /dev/null`
+  dirty=`    echo -n "${status}" 2> /dev/null | grep -q "Changed but not updated" 2> /dev/null; echo "$?"`
+  untracked=`echo -n "${status}" 2> /dev/null | grep -q "Untracked files" 2> /dev/null; echo "$?"`
+  ahead=`    echo -n "${status}" 2> /dev/null | grep -q "Your branch is ahead of" 2> /dev/null; echo "$?"`
+  newfile=`  echo -n "${status}" 2> /dev/null | grep -q "new file:" 2> /dev/null; echo "$?"`
+  renamed=`  echo -n "${status}" 2> /dev/null | grep -q "renamed:" 2> /dev/null; echo "$?"`
+  bits=''
+  if [ "${dirty}" == "0" ]; then
+    bits="${bits}☭"
+  fi
+  if [ "${untracked}" == "0" ]; then
+    bits="${bits}?"
+  fi
+  if [ "${newfile}" == "0" ]; then
+    bits="${bits}*"
+  fi
+  if [ "${ahead}" == "0" ]; then
+    bits="${bits}+"
+  fi
+  if [ "${renamed}" == "0" ]; then
+    bits="${bits}>"
+  fi
+  echo "${bits}"
+}
+ 
+function parse_git_branch {
+  git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e "s/* \(.*\)/(\1$(parse_git_dirty))/"
+}
+ 
+export PS1='\[\033[00;32m\]\u\[\033[01m\]@\[\033[00;36m\]\h\[\033[01m\] \! \[\033[00;35m\]\w\[\033[00m\]\[\033[01;30m\]$(parse_git_branch)\[\033[00m\]\$ '
+```
+* more sources for the prompt:
+  * https://gist.github.com/monde/217120
+  * https://github.com/twolfson/sexy-bash-prompt
+  * http://lancespeelmon.wordpress.com/2012/05/10/three-tips-for-creating-the-best-ever-git-command-line/
+  * http://oliverdavies.co.uk/blog/2013/04/display-git-branch-or-tag-names-your-bash-prompt
+* autocomplete git commands from terminal: 
+  * download .git-completion.bash and place it at home
+  * add this code to .bashrc:
+```
+if [ -f ~/.git-completion.bash ]; then
+    . ~/.git-completion.bash
+fi
+```
+
+
+
 ### About GITHUB renaming master branch to main
   * 'master' word is considered offensive by some, and so it was replaced with ‘main’, but in the context of git, the word “master” is not used in the same way as “master/slave”. Master in git is derived from the Latin word “magester”, meaning chief or teacher. The consequence is that if you don't want to end up with two branches, main and master, you to rename master to main in every new project before push to github in order to eliminate master.
   * https://medium.datadriveninvestor.com/why-githubs-change-from-master-to-main-is-not-the-solution-a3ac38cc48dd
