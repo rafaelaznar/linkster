@@ -7,6 +7,7 @@
 ## Tutorials
 
 * https://www.atlassian.com/git/tutorials
+* https://rogerdudler.github.io/git-guide/
 
 ## Interesting links
 
