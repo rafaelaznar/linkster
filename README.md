@@ -12,4 +12,6 @@
 
 [Markdown](Markdown/index.md)
 
+[Paradigms](Paradigms/index.md)
+
 [GEEK](Geek/index.md)
