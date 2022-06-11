@@ -8,7 +8,10 @@
 * Medium-hard SQL interview questions: https://quip.com/2gwZArKuWk7W
 * SQL Visualizer: https://animatesql.com/
 * SQL interactive book: https://selectstarsql.com/
+
+## Security
 * SQL Injection Wiki: https://sqlwiki.netspi.com/
+* https://www.troyhunt.com/everything-you-wanted-to-know-about-sql/
 
 ## Databases
 * https://www.mysql.com/
