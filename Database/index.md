@@ -13,6 +13,7 @@
 * MYSQL + GIT: https://github.com/dolthub/dolt#dolt
 * https://www.dolthub.com/
 * SQL against CSV: https://github.com/dinedal/textql
+* https://neon.tech/early-access/
 
 ## API layers
 * https://supabase.com/
