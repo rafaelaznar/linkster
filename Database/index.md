@@ -3,6 +3,7 @@
 ## SQL
 * SQL is 43 years old - here’s 8 reasons we still use it today: https://blog.sqlizer.io/posts/sql-43/
 * What ORMs have taught me: just learn SQL: https://wozniak.ca/blog/2014/08/03/1/
+* https://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
 * https://www.metabase.com/learn/sql-questions/sql-best-practices
 * Medium-hard SQL interview questions: https://quip.com/2gwZArKuWk7W
 * https://selectstarsql.com/
