@@ -33,5 +33,5 @@
 * https://github.com/plotly/falcon
 
 
-## Lectures
+## Reading
 * https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/
