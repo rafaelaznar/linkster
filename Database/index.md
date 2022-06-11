@@ -6,6 +6,7 @@
 * https://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/
 * https://www.metabase.com/learn/sql-questions/sql-best-practices
 * Medium-hard SQL interview questions: https://quip.com/2gwZArKuWk7W
+* SQL Visualizer: https://animatesql.com/
 * https://selectstarsql.com/
 * SQL Injection Wiki: https://sqlwiki.netspi.com/
 
