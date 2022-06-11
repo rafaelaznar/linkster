@@ -7,9 +7,9 @@
 * https://www.mysql.com/
 * https://www.postgresql.org/
 * https://firebase.google.com/
-
 * MYSQL + GIT: https://github.com/dolthub/dolt#dolt
 * https://www.dolthub.com/
+* SQL against CSV: https://github.com/dinedal/textql
 
 ## API layers
 * https://supabase.com/
@@ -21,7 +21,7 @@
 * https://www.mysql.com/products/workbench/
 * https://dbeaver.io/
 * https://www.liquibase.org/
-* SQL against CSV: https://github.com/dinedal/textql
+* https://github.com/plotly/falcon
 
 ## Lectures
 * https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/
