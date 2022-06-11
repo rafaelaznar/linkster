@@ -11,6 +11,7 @@
 * https://www.sqlteaching.com/
 * https://modern-sql.com/feature/with
 * https://blog.jooq.org/10-sql-tricks-that-you-didnt-think-were-possible/
+* https://khashtamov.com/en/sql-window-functions/
 
 ## Security
 * SQL Injection Wiki: https://sqlwiki.netspi.com/
