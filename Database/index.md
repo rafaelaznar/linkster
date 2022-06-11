@@ -6,6 +6,7 @@
 * https://www.metabase.com/learn/sql-questions/sql-best-practices
 * Medium-hard SQL interview questions: https://quip.com/2gwZArKuWk7W
 * https://selectstarsql.com/
+* SQL Injection Wiki: https://sqlwiki.netspi.com/
 
 ## Databases
 * https://www.mysql.com/
