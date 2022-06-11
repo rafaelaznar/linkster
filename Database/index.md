@@ -9,6 +9,7 @@
 * SQL Visualizer: https://animatesql.com/
 * SQL interactive book: https://selectstarsql.com/
 * https://www.sqlteaching.com/
+* https://modern-sql.com/feature/with
 
 ## Security
 * SQL Injection Wiki: https://sqlwiki.netspi.com/
