@@ -7,3 +7,4 @@
 * Public CDNs Are Useless and Dangerous: https://httptoolkit.tech/blog/public-cdn-risks/
 * :point_right: Apple autofill domain list in one plain text file: https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url
 * Find a good available .com domain: https://sive.rs/com
+* WHY JSON ISN’T A GOOD CONFIGURATION LANGUAGE: https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/
