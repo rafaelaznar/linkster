@@ -10,6 +10,7 @@
 * SQL interactive book: https://selectstarsql.com/
 * https://www.sqlteaching.com/
 * https://modern-sql.com/feature/with
+* https://blog.jooq.org/10-sql-tricks-that-you-didnt-think-were-possible/
 
 ## Security
 * SQL Injection Wiki: https://sqlwiki.netspi.com/
