@@ -7,7 +7,7 @@
 * https://www.metabase.com/learn/sql-questions/sql-best-practices
 * Medium-hard SQL interview questions: https://quip.com/2gwZArKuWk7W
 * SQL Visualizer: https://animatesql.com/
-* https://selectstarsql.com/
+* SQL interactive book: https://selectstarsql.com/
 * SQL Injection Wiki: https://sqlwiki.netspi.com/
 
 ## Databases
