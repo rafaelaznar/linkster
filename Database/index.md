@@ -3,6 +3,7 @@
 ## SQL
 * SQL is 43 years old - here’s 8 reasons we still use it today: https://blog.sqlizer.io/posts/sql-43/
 * Medium-hard SQL interview questions: https://quip.com/2gwZArKuWk7W
+* https://selectstarsql.com/
 
 ## Databases
 * https://www.mysql.com/
