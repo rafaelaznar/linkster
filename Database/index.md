@@ -21,6 +21,7 @@
 * https://www.mysql.com/products/workbench/
 * https://dbeaver.io/
 * https://www.liquibase.org/
+* SQL against CSV: https://github.com/dinedal/textql
 
 ## Lectures
 * https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/
