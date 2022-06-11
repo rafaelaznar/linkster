@@ -1,12 +1,14 @@
 # Roadmap &amp; links on web development
 
-[News Links](News/index.md)
+[News](News/index.md)
 
-[Javascript Links](Javascript/index.md)
+[Javascript](Javascript/index.md)
 
-[Java Links](Java/index.md)
+[Java](Java/index.md)
 
 [CORS](Cors/index.md)
+
+[Database](Database/index.md)
 
 [GIT](Git/index.md)
 
