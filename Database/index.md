@@ -22,6 +22,7 @@
 * CLOUD: https://neon.tech/early-access/
 * SQL against CSV: https://github.com/dinedal/textql
 * SQL against FILE TREE: https://github.com/kashav/fsql
+* SQL against GITHUB https://app.mergestat.com/w/public
 
 ## API layers
 * https://supabase.com/
