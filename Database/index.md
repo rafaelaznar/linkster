@@ -13,9 +13,10 @@
 * https://www.postgresql.org/
 * CLOUD: https://firebase.google.com/
 * MYSQL + GIT: https://github.com/dolthub/dolt#dolt
-* https://www.dolthub.com/
-* SQL against CSV: https://github.com/dinedal/textql
+  * https://www.dolthub.com/
 * CLOUD: https://neon.tech/early-access/
+* SQL against CSV: https://github.com/dinedal/textql
+* SQL against FILE TREE: https://github.com/kashav/fsql
 
 ## API layers
 * https://supabase.com/
@@ -28,6 +29,7 @@
 * https://dbeaver.io/
 * https://www.liquibase.org/
 * https://github.com/plotly/falcon
+
 
 ## Lectures
 * https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/
