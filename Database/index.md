@@ -34,6 +34,7 @@
 * https://dbeaver.io/
 * https://www.liquibase.org/
 * https://github.com/plotly/falcon
+* http://sqlfiddle.com/
 
 
 ## Reading
