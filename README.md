@@ -16,4 +16,6 @@
 
 [Paradigms](Paradigms/index.md)
 
+[Documentation](Documentation/index.md)
+
 [GEEK](Geek/index.md)
