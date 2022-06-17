@@ -1,5 +1,6 @@
 
 # Geek selected Links
+* Do large language models understand us? https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75
 * Writing is hard: https://blog.torh.net/2022/06/14/writing-is-hard/
 * Google announcing the first SHA1 collision: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * Stop Interviewing With Leet Code: https://fev.al/posts/leet-code/
