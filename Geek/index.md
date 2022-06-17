@@ -1,5 +1,6 @@
 
 # Geek selected Links
+* Software Architecture: It Might Not Be What You Think It Is. "software architects must still be developers" https://www.infoq.com/articles/what-software-architecture/
 * Do large language models understand us? https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75
 * Writing is hard: https://blog.torh.net/2022/06/14/writing-is-hard/
 * Google announcing the first SHA1 collision: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
@@ -14,3 +15,5 @@
 * Framework-less Single Page Application: https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c
 * Markdown GITHUB icons: https://gist.github.com/rxaviers/7360908
 * :point_right: Using generics in Spring Data JPA repositories: https://stackoverflow.com/questions/19417670/using-generics-in-spring-data-jpa-repositories
+* Download Bitcoin Blockchain [bootstrap.dat] https://flo.sh/download-bitcoin-blockchain-bootstrap/
+* WHAT IS A MONOREPO: https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo
