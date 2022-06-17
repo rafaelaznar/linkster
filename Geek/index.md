@@ -17,3 +17,5 @@
 * :point_right: Using generics in Spring Data JPA repositories: https://stackoverflow.com/questions/19417670/using-generics-in-spring-data-jpa-repositories
 * Download Bitcoin Blockchain [bootstrap.dat] https://flo.sh/download-bitcoin-blockchain-bootstrap/
 * WHAT IS A MONOREPO: https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo
+* The Project KeePassXC: https://keepassxc.org/project/
+* Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS.https://www.opensourcealternative.to/?category=Database
