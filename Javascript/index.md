@@ -37,7 +37,7 @@
   - BOOKS: https://jsbooks.revolunet.com/
 ## Online books
   - MODERN: https://eloquentjavascript.net/
-  - MODERN: https://github.com/getify/You-Dont-Know-JS
+  - MODERN: https://github.com/getify/You-Dont-Know-JS (Get Started, Scope & Closures, Objects & Classes...)
   - MODERN: https://exploringjs.com/ & https://exploringjs.com/impatient-js/toc.html
   - CLASSIC ADVANCED: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
     - http://speakingjs.com/es5/index.html
