@@ -7,7 +7,7 @@
  - CLASSIC ADVANCED: https://bonsaiden.github.io/JavaScript-Garden/
  - CLASSIC ADVANCED: https://johnresig.com/apps/learn/
  - CLASSIC MEDIUM: http://jsforcats.com/
- - CLASSIC ADVANCED: https://wtfjs.com/
+ - CLASSIC ADVANCED: (oodities) https://wtfjs.com/
  - MODERN: https://youmightnotneedjquery.com/
  - MODERN: https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html
  - MODERN: https://frontendmasters.com/guides/javascript-enlightenment/
