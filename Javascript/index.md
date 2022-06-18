@@ -10,6 +10,8 @@
  - CLASSIC ADVANCED: https://wtfjs.com/
  - MODERN: https://youmightnotneedjquery.com/
  - MODERN: https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html
+ - MODERN: https://frontendmasters.com/guides/javascript-enlightenment/
+ - MODERN ADVANCED: https://github.com/ryanmcdermott/clean-code-javascript#solid
 ### Interview questions
  - https://www.javatpoint.com/javascript-interview-questions
  - https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
@@ -36,7 +38,7 @@
 ## Online books
   - MODERN: https://eloquentjavascript.net/
   - MODERN: https://github.com/getify/You-Dont-Know-JS
-  - MODERN: https://exploringjs.com/
+  - MODERN: https://exploringjs.com/ & https://exploringjs.com/impatient-js/toc.html
   - CLASSIC ADVANCED: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
     - http://speakingjs.com/es5/index.html
   - ADVANCED MODERN: 
