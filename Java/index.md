@@ -1,9 +1,5 @@
 # Java Links
 
-## Introduction to Java
- - Revisiting Java in 2021 - I: https://www.avanwyk.com/revisiting-java-in-2021-i/
- - Revisiting Java in 2021 - II: https://www.avanwyk.com/revisiting-java-in-2021-ii/
-
 ## Tutorial
  - https://docs.oracle.com/javase/tutorial/
  - https://www.softwaretestinghelp.com/java/
@@ -15,3 +11,6 @@
  - http://www.java2s.com/Tutorial/Java/CatalogJava.htm
  - https://www.edureka.co/blog/what-is-java/
 
+## Updating Java
+ - Revisiting Java in 2021 - I: https://www.avanwyk.com/revisiting-java-in-2021-i/
+ - Revisiting Java in 2021 - II: https://www.avanwyk.com/revisiting-java-in-2021-ii/
