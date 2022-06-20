@@ -1,5 +1,6 @@
 
 # Geek selected Links
+* Consciousness is not computation: https://joe-antognini.github.io/ml/consciousness
 * Software Architecture: It Might Not Be What You Think It Is: "software architects must still be developers" https://www.infoq.com/articles/what-software-architecture/
 * Do large language models understand us?: https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75
 * Writing is hard: https://blog.torh.net/2022/06/14/writing-is-hard/
