@@ -16,3 +16,4 @@
  - https://jackson.sh/posts/2021-04-java-underrated/
  - Revisiting Java in 2021 - I: https://www.avanwyk.com/revisiting-java-in-2021-i/
  - Revisiting Java in 2021 - II: https://www.avanwyk.com/revisiting-java-in-2021-ii/
+ - https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz7WmMBRAPF
