@@ -13,5 +13,6 @@
 
 ## Updating Java
  - https://komalvenkatesh.medium.com/why-java-is-dying-b02b5fd44db9
+ - https://jackson.sh/posts/2021-04-java-underrated/
  - Revisiting Java in 2021 - I: https://www.avanwyk.com/revisiting-java-in-2021-i/
  - Revisiting Java in 2021 - II: https://www.avanwyk.com/revisiting-java-in-2021-ii/
