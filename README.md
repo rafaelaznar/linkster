@@ -4,6 +4,8 @@
 
 [Javascript](Javascript/index.md)
 
+[Angular](Angular/index.md)
+
 [Java](Java/index.md)
 
 [CORS](Cors/index.md)
