@@ -1,5 +1,6 @@
 # Paradigms Links
-
+## Data oriented programming
+* https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html
 ## Object oriented programming
 ### Patterns
 * https://en.wikipedia.org/wiki/Design_Patterns
