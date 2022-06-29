@@ -18,6 +18,6 @@
 
 [Paradigms](Paradigms/index.md)
 
-[Documentation](Documentation/index.md)
+[Software industry](Documentation/index.md)
 
 [GEEK](Geek/index.md)
