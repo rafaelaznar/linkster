@@ -17,4 +17,5 @@
 * https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird
 * https://www.angelfire.com/tx4/cus/combinator/birds.html
 * https://en.wikipedia.org/wiki/SKI_combinator_calculus
+* https://blog.tmorris.net/posts/ski-combinator-calculus-in-java/
 * http://dirk.rave.org/combinatris/
