@@ -1,4 +1,6 @@
 # Software industry
+## Languages
+* https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/
 ## Requirements
 ## Productivity
 * https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/
