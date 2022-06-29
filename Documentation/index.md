@@ -1,6 +1,9 @@
-# Requirements, Coding style & Documentation
+# Software industry
+## Requirements
+## Productivity
+* https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/
 
-
+## Documentation
 * Write documentation first. Then build: https://reproof.app/blog/document-first-then-build
 
 ## Styling code
