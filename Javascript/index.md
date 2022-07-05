@@ -26,6 +26,8 @@
  - https://www.dotnettricks.com/learn/javascript/javascript-interview-questions
 ### Functional programming
  - https://opensource.com/article/17/6/functional-javascript
+ - https://github.com/hemanth/functional-programming-jargon
+ * Double arrow vs currying & partial applications => https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript
 ## Documentation
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
   - https://devdocs.io/javascript/
