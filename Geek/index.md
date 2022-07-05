@@ -22,3 +22,5 @@
 * Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS: https://www.opensourcealternative.to/?category=Database
 ## Randomness
 * https://healeycodes.com/creating-randomness
+* https://cacm.acm.org/magazines/2017/1/211100-pure-randomness-extracted-from-two-poor-sources/fulltext
+* https://probablydance.com/2019/08/28/a-new-algorithm-for-controlled-randomness/
