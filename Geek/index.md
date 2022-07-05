@@ -20,3 +20,5 @@
 * WHAT IS A MONOREPO: https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo
 * The Project KeePassXC: https://keepassxc.org/project/
 * Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS: https://www.opensourcealternative.to/?category=Database
+## Randomness
+* https://healeycodes.com/creating-randomness
