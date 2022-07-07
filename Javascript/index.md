@@ -52,6 +52,7 @@
   - https://caniuse.com/?search=ECMAScript%202015
   - https://kangax.github.io/compat-table/es6/
 ## Video tutorials
+  - https://www.youtube.com/watch?v=XIOLqoPHCJ4
   - https://www.youtube.com/watch?v=hdI2bqOjy3c
   - https://www.youtube.com/watch?v=ec8vSKJuZTk
   - https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s
