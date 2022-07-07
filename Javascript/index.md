@@ -56,8 +56,8 @@
   - https://www.youtube.com/watch?v=ec8vSKJuZTk
   - https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s
   - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list
-  - https://www.youtube.com/watch?v=W6NZfCO5SIk
-  - https://www.youtube.com/watch?v=jS4aFq5-91M
+  - Programming with Mosh BEGGINERS 1h: https://www.youtube.com/watch?v=W6NZfCO5SIk
+  - freeCodeCamp 7h: https://www.youtube.com/watch?v=jS4aFq5-91M
   - Codevolution BEGGINER: https://www.youtube.com/watch?v=XIOLqoPHCJ4
   - Codevolution DS: https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy
   - Codevolution ALGS: https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa
