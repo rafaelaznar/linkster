@@ -48,11 +48,15 @@
 ## Aggregators
   - SUBJECTS: http://jstherightway.org/
   - BOOKS: https://jsbooks.revolunet.com/
-## Video tutorials
-  - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list
 ## Javascript support in browsers
   - https://caniuse.com/?search=ECMAScript%202015
   - https://kangax.github.io/compat-table/es6/
+## Video tutorials
+  - https://www.youtube.com/watch?v=hdI2bqOjy3c
+  - https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s
+  - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list
+  - https://www.youtube.com/watch?v=W6NZfCO5SIk
+  - https://www.youtube.com/watch?v=jS4aFq5-91M
 ## Typescript links
   - https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
   - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
