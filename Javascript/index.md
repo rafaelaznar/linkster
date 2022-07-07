@@ -13,8 +13,9 @@
  - MODERN: https://frontendmasters.com/guides/javascript-enlightenment/
  - MODERN ADVANCED: https://github.com/ryanmcdermott/clean-code-javascript#solid
 ## Free websites to learn
- - https://www.freecodecamp.org/
- - https://javascript.info/
+ - CLASSIC & MODERN: https://www.freecodecamp.org/
+ - CLASSIC: https://javascript.info/
+ - CLASSIC: https://www.tutorialrepublic.com/javascript-tutorial/
 ## Online books
   - MODERN: https://eloquentjavascript.net/
   - MODERN: https://github.com/getify/You-Dont-Know-JS (Get Started, Scope & Closures, Objects & Classes...)
