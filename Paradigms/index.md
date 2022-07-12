@@ -2,6 +2,26 @@
 ## Data oriented programming
 * https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html
 ## Object oriented programming
+### Principes
+#### OOP four principes
+* https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727
+* The Four Pillars of Object Oriented Programming https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming
+#### SOLID
+* https://en.wikipedia.org/wiki/SOLID
+* https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
+* https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+#### KISS
+* https://en.wikipedia.org/wiki/KISS_principle
+#### DRY
+* https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+#### AHA
+* https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+* https://kentcdodds.com/blog/aha-programming
+* https://dev.to/andreacanton/aha-programming-vs-single-responsibility-principle-4go
+#### YAGNI
+* https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+* https://martinfowler.com/bliki/Yagni.html
+* https://dev.to/richardwynn/yagni-principle-in-100-seconds-1i6j
 ### Patterns
 * https://en.wikipedia.org/wiki/Design_Patterns
 * https://refactoring.guru/design-patterns/catalog
