@@ -42,6 +42,9 @@
 * https://github.com/plotly/falcon
 * http://sqlfiddle.com/
 
+## ACID
+* https://en.wikipedia.org/wiki/ACID
+
 ## Stored triggers & procedures dilemma
 * https://brandur.org/fragments/code-database-vs-app
 
