@@ -42,6 +42,8 @@
 * https://github.com/plotly/falcon
 * http://sqlfiddle.com/
 
+## Stored triggers & procedures dilemma
+* https://brandur.org/fragments/code-database-vs-app
 
 ## Reading
 * https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/
