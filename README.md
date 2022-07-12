@@ -1,43 +1,42 @@
 # Roadmap &amp; links on web development
 
-[News](content/news.md)
-[News](News/index.md)
+# Introduction
 
 [Basis & history](content/basis.md)
-[Basis & history](Basis/index.md)
 
-[Markup Languages](content/markup.md)
-[Markup Languages](Markup/index.md)
-
-[CSS](content/css.md)
-[CSS](CSS/index.md)
-
-[Javascript](content/javascript.md)
-[Javascript](Javascript/index.md)
-
-[Angular](content/angular.md)
-[Angular](Angular/index.md)
-
-[Java](content/java.md)
-[Java](Java/index.md)
-
-[CORS](content/cors.md)
-[CORS](Cors/index.md)
-
-[Database](content/database.md)
-[Database](Database/index.md)
+# Development
 
 [GIT](content/git.md)
-[GIT](Git/index.md)
-
-[Markdown](content/markdown.md)
-[Markdown](Markdown/index.md)
 
 [Paradigms](content/paradigms.md)
-[Paradigms](Paradigms/index.md)
 
 [Software industry](content/swindustry.md)
-[Software industry](Documentation/index.md)
+
+## Web development
+
+[CORS](content/cors.md)
+
+## The client
+
+[Markup Languages](content/markup.md)
+
+[CSS](content/css.md)
+
+[Javascript](content/javascript.md)
+
+[Angular](content/angular.md)
+
+[Markdown](content/markdown.md)
+
+# The server
+
+[Java](content/java.md)
+
+[Database](content/database.md)
+
+# Going beyond
+
+[News](content/news.md)
 
 [GEEK](content/geek.md)
-[GEEK](Geek/index.md)
+
