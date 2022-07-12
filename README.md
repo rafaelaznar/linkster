@@ -2,7 +2,7 @@
 
 [News](News/index.md)
 
-[Basis](Basis & history/index.md)
+[Basis & history](Basis/index.md)
 
 [Markup Languages](Markup/index.md)
 
