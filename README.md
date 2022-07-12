@@ -1,4 +1,4 @@
-# Roadmap &amp; links on web development
+Roadmap repo contains selected links on computer science & web development
 
 # Introduction
 
