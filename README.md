@@ -2,6 +2,8 @@
 
 [News](News/index.md)
 
+[Basis](Basis & history/index.md)
+
 [Markup Languages](Markup/index.md)
 
 [CSS](CSS/index.md)
