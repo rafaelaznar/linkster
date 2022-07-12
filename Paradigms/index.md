@@ -26,7 +26,9 @@
 * https://en.wikipedia.org/wiki/Design_Patterns
 * https://refactoring.guru/design-patterns/catalog
 * JS BOOK: https://www.patterns.dev/posts/classic-design-patterns/
-
+## Aspect oriented programming
+* https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming
+* https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming
 
 
 ## Functional
