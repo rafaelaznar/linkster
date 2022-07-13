@@ -60,10 +60,11 @@
         var myModule = angular.module("myApp", []);
             var myController = myModule.controller("myController", ["$scope", "$http",
                 function ($scope, $http) {
+                    $scope.template = "";
                     $scope.load = function (tpl) {
                       $http.get(tpl + ".md").then(function(response) {            
                         const converter = new showdown.Converter();
-                        return converter.makeHtml(response.data);            
+                        $scope.template = converter.makeHtml(response.data);            
                       });                      
                     }
                 },
