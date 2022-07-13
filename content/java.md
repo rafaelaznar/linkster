@@ -10,6 +10,7 @@
  - https://www.javatpoint.com/java-tutorial
  - http://www.java2s.com/Tutorial/Java/CatalogJava.htm
  - https://www.edureka.co/blog/what-is-java/
+ - https://en.wikibooks.org/wiki/Java_Programming
 
 ## Updating Java
  - https://komalvenkatesh.medium.com/why-java-is-dying-b02b5fd44db9
