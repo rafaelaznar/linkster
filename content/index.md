@@ -15,6 +15,7 @@
 * [Javascript](javascript.md)
 * [Angular](angular.md)
 * [Markdown](markdown.md)
+* [UI](ui.md)
 # The server
 * [Java](java.md)
 * [Spring](spring.md)
