@@ -1,6 +1,6 @@
-# ROADMAP to fullstack web developer
+# ROADMAPS to fullstack web developer
 
-### Roadmap repo contains selected links on computer science & web development.
+### Roadmaps repository contains selected links on computer science & web development.
 
 [Website](https://rafaelaznar.github.io/roadmaps/content)
 
