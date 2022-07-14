@@ -1,4 +1,8 @@
-[Roadmap repo contains selected links on computer science & web development.](content/index.md)
+[Roadmap repo contains selected links on computer science & web development.]
+
+[Visit](content/index.md)
+
+[Visit](content/index.md)
 
 I encourage my students:
 - be authonomous to search the Internet to improve skills and programs
