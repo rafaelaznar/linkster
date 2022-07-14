@@ -4,6 +4,7 @@
 # Development
 * [GIT](git.md)
 * [Paradigms](paradigms.md)
+* [Algoritmics](algoritmics.md)
 * [Software industry](swindustry.md)
 # Web development
 * [CORS](cors.md)
