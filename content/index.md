@@ -19,6 +19,7 @@
 * [Spring](spring.md)
 * [Database](database.md)
 # Extra
+* [Formal Foundations](formal.md)
 * [News](news.md)
 * [GEEK](geek.md)
 
