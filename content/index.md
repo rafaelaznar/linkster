@@ -1,5 +1,5 @@
 # Introduction
-* [Foundations](basis.md)
+* [Foundations](foundations.md)
 * [History](history.md)
 # Development
 * [GIT](git.md)
