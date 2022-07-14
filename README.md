@@ -2,7 +2,7 @@
 
 ### Roadmap repo contains selected links on computer science & web development.
 
-[Website](https://rafaelaznar.github.io/roadmaps/)
+[Website](https://rafaelaznar.github.io/roadmaps/content)
 
 [Github](content/index.md)
 
