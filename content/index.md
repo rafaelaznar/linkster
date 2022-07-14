@@ -4,11 +4,12 @@
 * [GIT](git.md)
 * [Paradigms](paradigms.md)
 * [Software industry](swindustry.md)
-## Web development
+# Web development
 * [CORS](cors.md)
-## The client
+# The client
 * [Markup Languages](markup.md)
 * [CSS](css.md)
+* [Bootstrap](bootstrap.md)
 * [Javascript](javascript.md)
 * [Angular](angular.md)
 * [Markdown](markdown.md)
@@ -16,7 +17,7 @@
 * [Java](java.md)
 * [Spring](spring.md)
 * [Database](database.md)
-# Going beyond
+# Extra
 * [News](news.md)
 * [GEEK](geek.md)
 
