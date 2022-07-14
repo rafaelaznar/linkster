@@ -1,9 +1,9 @@
 # Javascript
 ## Javascript Links 
- - CLASSIC INITIAL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
- - CLASSIC INITIAL: https://learnxinyminutes.com/docs/javascript/
- - CLASSIC AND MODERN INITIAL: https://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/
- - MODERN FROM INITIAL TO ADVANCED: https://javascript.info/
+ - [CLASSIC INITIAL: MDN: A re-introduction to JavaScript (JS tutorial) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+ - [CLASSIC INITIAL: Learn X in Y minutes; Where X=javascript ](https://learnxinyminutes.com/docs/javascript/)
+ - [CLASSIC AND MODERN INITIAL: A Dive Into Plain JavaScript ](https://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
+ - [MODERN FROM INITIAL TO ADVANCED: The Modern JavaScript Tutorial from javascript.info](https://javascript.info/)
  - CLASSIC ADVANCED: https://bonsaiden.github.io/JavaScript-Garden/
  - CLASSIC ADVANCED: https://johnresig.com/apps/learn/
  - CLASSIC MEDIUM: http://jsforcats.com/
