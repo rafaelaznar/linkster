@@ -4,7 +4,7 @@
  - [CLASSIC INITIAL: Learn X in Y minutes; Where X=javascript ](https://learnxinyminutes.com/docs/javascript/)
  - [CLASSIC AND MODERN INITIAL: A Dive Into Plain JavaScript ](https://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
  - [MODERN FROM INITIAL TO ADVANCED: The Modern JavaScript Tutorial from javascript.info](https://javascript.info/)
- - [CLASSIC ADVANCED: JavaScript Garden (highly recommended) ](https://bonsaiden.github.io/JavaScript-Garden/)
+ - [:point_right: CLASSIC ADVANCED: JavaScript Garden (highly recommended) ](https://bonsaiden.github.io/JavaScript-Garden/)
  - CLASSIC ADVANCED: https://johnresig.com/apps/learn/
  - CLASSIC MEDIUM: http://jsforcats.com/
  - CLASSIC ADVANCED: (oodities) https://wtfjs.com/
