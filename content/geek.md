@@ -1,5 +1,5 @@
 
-# Geek selected Links processing pendent
+# Geek Links
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface. ](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
 * [Publishing your work increases your luck:]( https://github.com/readme/guides/publishing-your-work)
