@@ -5,13 +5,13 @@
  - [CLASSIC AND MODERN INITIAL: A Dive Into Plain JavaScript ](https://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
  - [MODERN FROM INITIAL TO ADVANCED: The Modern JavaScript Tutorial from javascript.info](https://javascript.info/)
  - [:point_right: CLASSIC ADVANCED: JavaScript Garden (highly recommended) ](https://bonsaiden.github.io/JavaScript-Garden/)
- - CLASSIC ADVANCED: https://johnresig.com/apps/learn/
- - CLASSIC MEDIUM: http://jsforcats.com/
- - CLASSIC ADVANCED: (oodities) https://wtfjs.com/
- - MODERN: https://youmightnotneedjquery.com/
- - MODERN: https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html
- - MODERN: https://frontendmasters.com/guides/javascript-enlightenment/
- - MODERN ADVANCED: https://github.com/ryanmcdermott/clean-code-javascript#solid
+ - [CLASSIC ADVANCED: Learning Advanced JavaScript](https://johnresig.com/apps/learn/)
+ - [CLASSIC MEDIUM: An introduction for new programmers (simple, basic)](http://jsforcats.com/)
+ - [CLASSIC ADVANCED: wtfjs (oodities)](https://wtfjs.com/)
+ - [MODERN ADVANCED:  a guide to producing readable, reusable, and refactorable software in JavaScript.](https://github.com/ryanmcdermott/clean-code-javascript)
+ - [MODERN: You might not need jQuery](https://youmightnotneedjquery.com/)
+ - [MODERN: Manual de ES6](https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html)
+ - [MODERN: JavaScript (ES2015+) Enlightenment Grokking Modern JavaScript, In The Wild](https://frontendmasters.com/guides/javascript-enlightenment/)
 ## Free websites to learn
  - CLASSIC & MODERN: https://www.freecodecamp.org/
  - CLASSIC: https://javascript.info/
