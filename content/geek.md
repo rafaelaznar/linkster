@@ -2,11 +2,9 @@
 # Geek Links
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
-* [Publishing your work increases your luck]( https://github.com/readme/guides/publishing-your-work)
 * [Consciousness is not computation]( https://joe-antognini.github.io/ml/consciousness)
 * [Software Architecture: It Might Not Be What You Think It Is: "software architects must still be developers"]( https://www.infoq.com/articles/what-software-architecture/)
 * [Do large language models understand us?]( https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
-* [Writing is hard]( https://blog.torh.net/2022/06/14/writing-is-hard/)
 * [Google announcing the first SHA1 collision]( https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
 * [Stop Interviewing With Leet Code:]( https://fev.al/posts/leet-code/)
 * [10 Surprising Things You Didn't Know About HTTP]( https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713)
@@ -23,6 +21,10 @@
 * [WHAT IS A MONOREPO](https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo)
 * [The Project KeePassXC]( https://keepassxc.org/project/)
 * [Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS](https://www.opensourcealternative.to/?category=Database)
+## Publishing
+* [Publishing your work increases your luck]( https://github.com/readme/guides/publishing-your-work)
+* [ Ten Lessons I wish I had been Taught by Gian-Carlo Rota](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
+* [Writing is hard]( https://blog.torh.net/2022/06/14/writing-is-hard/)
 ## Randomness
 * [Creating Randomness Without Math.random](https://healeycodes.com/creating-randomness)
 * [Pure Randomness Extracted from Two Poor Sources](https://cacm.acm.org/magazines/2017/1/211100-pure-randomness-extracted-from-two-poor-sources/fulltext)
