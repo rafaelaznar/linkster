@@ -1,2 +1,3 @@
 # User Interface
-* https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/ -> I only use modals to inform or confirm actions or to choose values.
+* [Why you probably shouldn't put forms in modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/) -> NOTE: I only use modals to inform the user, to confirm their actions or to choose values.
+* [How i experience web today](https://how-i-experience-web-today.com)
