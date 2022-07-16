@@ -1,5 +1,6 @@
 
 # Geek Links
+* [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
 * [Consciousness is not computation]( https://joe-antognini.github.io/ml/consciousness)
