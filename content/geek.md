@@ -1,6 +1,6 @@
 
 # Geek Links
-
+* [A curated list of papers that may be of interest to Software Engineering students or professionals.](https://github.com/facundoolano/software-papers/)
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
 * [Consciousness is not computation]( https://joe-antognini.github.io/ml/consciousness)
