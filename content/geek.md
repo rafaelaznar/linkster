@@ -25,6 +25,7 @@
 * [Publishing your work increases your luck]( https://github.com/readme/guides/publishing-your-work)
 * [ Ten Lessons I wish I had been Taught by Gian-Carlo Rota](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
 * [Writing is hard]( https://blog.torh.net/2022/06/14/writing-is-hard/)
+* [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
 ## Randomness
 * [Creating Randomness Without Math.random](https://healeycodes.com/creating-randomness)
 * [Pure Randomness Extracted from Two Poor Sources](https://cacm.acm.org/magazines/2017/1/211100-pure-randomness-extracted-from-two-poor-sources/fulltext)
