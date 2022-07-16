@@ -7,3 +7,5 @@
 * http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/
 * https://blog.tmorris.net/posts/ski-combinator-calculus-in-java/
 * http://dirk.rave.org/combinatris/
+## Typescript
+* [Programming with the TypeScript type system](https://github.com/charleswaddell/show-and-tell-30-06-2022)
