@@ -1,8 +1,6 @@
 
 # Geek Links
-* [Kernel Prolog - a lightweight Java-based Prolog system](https://code.google.com/archive/p/kernel-prolog/downloads)
-* [PROLOG in 200 lines of C++](https://www.cl.cam.ac.uk/~am21/research/funnel/prolog.c)
-* [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
+
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
 * [Consciousness is not computation]( https://joe-antognini.github.io/ml/consciousness)
@@ -16,14 +14,17 @@
 * [Find a good available .com domain]( https://sive.rs/com)
 * [WHY JSON ISN’T A GOOD CONFIGURATION LANGUAGE]( https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/)
 * [A beautiful personal server OS for self-hosting]( https://umbrel.com/)
-* [The power of PROLOG]( https://www.metalevel.at/prolog)
-* [Framework-less Single Page Application](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c)
-* [Markdown GITHUB icons](https://gist.github.com/rxaviers/7360908)
 * [:point_right: Using generics in Spring Data JPA repositories]( https://stackoverflow.com/questions/19417670/using-generics-in-spring-data-jpa-repositories)
 * [Download Bitcoin Blockchain: [bootstrap.dat]](https://flo.sh/download-bitcoin-blockchain-bootstrap/)
 * [WHAT IS A MONOREPO](https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo)
 * [The Project KeePassXC]( https://keepassxc.org/project/)
 * [Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS](https://www.opensourcealternative.to/?category=Database)
+## LISP
+* [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
+## Prolog
+* [The power of PROLOG]( https://www.metalevel.at/prolog)
+* [Kernel Prolog - a lightweight Java-based Prolog system](https://code.google.com/archive/p/kernel-prolog/downloads)
+* [PROLOG in 200 lines of C++](https://www.cl.cam.ac.uk/~am21/research/funnel/prolog.c)
 ## Publishing
 * [Publishing your work increases your luck]( https://github.com/readme/guides/publishing-your-work)
 * [ Ten Lessons I wish I had been Taught by Gian-Carlo Rota](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
