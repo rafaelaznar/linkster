@@ -1,22 +1,24 @@
 # Software industry
 ## Languages
-* https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/
+* [Top 8 Most Demanded Programming Languages in 2022](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
 ## Requirements
+## Architectura
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 ## Productivity
-* https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/
+* [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
 
 ## Documentation
-* Write documentation first. Then build: https://reproof.app/blog/document-first-then-build
+* [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
 
 ## Styling code
-* https://en.wikipedia.org/wiki/Naming_convention_(programming)
+* [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
 
 ## Documenting code
-* Self-documenting code: https://en.wikipedia.org/wiki/Self-documenting_code
+* [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 
 
 ## API
-* https://swagger.io/
+* [swagger](https://swagger.io/)
 
 
 ## UML
