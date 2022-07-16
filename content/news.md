@@ -1,10 +1,13 @@
 # News
+* [Hacker news](https://news.ycombinator.com/)
+* [https://old.reddit.com/r/programming/](https://old.reddit.com/r/programming/)
+---
  - https://dzone.com/
  - https://dev.to/t/news
  - https://www.infoworld.com/category/application-development/
  - https://www.wired.com/tag/programming/
  - https://hackernoon.com/ https://hackernoon.com/tagged/software-development
- - Geek news: https://news.ycombinator.com/
+
 ## Web design & development
  - https://hashnode.com/n/web-development
  - https://www.smashingmagazine.com/category/web-design/
