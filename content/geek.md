@@ -1,5 +1,7 @@
 
 # Geek Links
+* [Kernel Prolog - a lightweight Java-based Prolog system](https://code.google.com/archive/p/kernel-prolog/downloads)
+* [PROLOG in 200 lines of C++](https://www.cl.cam.ac.uk/~am21/research/funnel/prolog.c)
 * [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
