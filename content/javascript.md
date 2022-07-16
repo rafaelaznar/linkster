@@ -13,9 +13,10 @@
  - [MODERN: Manual de ES6](https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html)
  - [MODERN: JavaScript (ES2015+) Enlightenment Grokking Modern JavaScript, In The Wild](https://frontendmasters.com/guides/javascript-enlightenment/)
 ## Free websites to learn
- - CLASSIC & MODERN: https://www.freecodecamp.org/
- - CLASSIC: https://javascript.info/
- - CLASSIC: https://www.tutorialrepublic.com/javascript-tutorial/
+ - [CLASSIC & MODERN: freecodecamp](https://www.freecodecamp.org/)
+ - [:point_right: CLASSIC & MODERN: freecodecamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+ - [CLASSIC: javascript.info](https://javascript.info/)
+ - [CLASSIC: tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
 ## Online books
   - MODERN: https://eloquentjavascript.net/
   - MODERN: https://github.com/getify/You-Dont-Know-JS (Get Started, Scope & Closures, Objects & Classes...)
@@ -71,6 +72,8 @@
   - https://github.com/melissarofman/typescript-book
   - https://github.com/microsoft/TypeScript/blob/main/doc/spec-ARCHIVED.md
   - https://www.tutorialspoint.com/typescript/index.htm
+## Framework-less SPA's
+* [Framework-less Single Page Application](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c)
 ## Functional programming
  - https://opensource.com/article/17/6/functional-javascript
  - https://github.com/hemanth/functional-programming-jargon
