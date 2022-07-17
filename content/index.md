@@ -23,5 +23,6 @@
 # Extra
 * [Formal Foundations](formal.md)
 * [News](news.md)
+* [Didactics](didactics.md)
 * [GEEK](geek.md)
 
