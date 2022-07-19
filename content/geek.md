@@ -1,5 +1,6 @@
 
 # Geek Links
+* [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [A curated list of papers that may be of interest to Software Engineering students or professionals.](https://github.com/facundoolano/software-papers/)
 * [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
 * [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
