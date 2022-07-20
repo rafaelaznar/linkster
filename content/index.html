@@ -10,108 +10,106 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-        </script>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
         </script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
 
     <title>ROADMAPS</title>
 
     <link rel="shortcut icon" type="image/png" href="roadmaps.png" />
 
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <link rel="stylesheet" data-ng-if="css" type="text/css" ng-href="{{css}}.css">
 </head>
 
 <body>
 
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-            <a href="#" id="title" class="h1 navbar-brand" ng-click="goHome()">ROADMAP</a>
-            <div class="navbar-nav ms-auto">                
-                <button class="btn float-end" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" role="button">
-                    <i class="fa-solid fa-arrows-rotate" data-bs-toggle="offcanvas" data-bs-target="#offcanvas"></i>
-                    Open menu
-                </button>
-            </div>
 
-        </div>
-    </nav>
-
-    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas" data-bs-keyboard="false"
-        data-bs-backdrop="false">
-        <div class="offcanvas-header">
-            <h6 class="offcanvas-title d-none d-sm-block" id="offcanvas">Menu</h6>
-            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body px-0" id="side" ng-bind-html="sidebar | trust" on>
-            <!-- side -->
-        </div>
-    </div>
     <div class="container-fluid">
-        <div class="row">
-            <div class="col min-vh-100 p-4" ng-bind-html="template | trust">
-                <!-- template -->
+        <div class="row flex-nowrap">
+            <div class="col-auto px-0">
+                <div id="sidebar" class="collapse collapse-horizontal show border-end" style="width: 350px;">
+                    <div id="index" class="list-group border-0 rounded-0 text-sm-start min-vh-100">
+
+                    </div>
+                </div>
             </div>
+            <main class="col pt-2">
+                <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse"
+                    class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none">
+                    Menu</a>
+                <a href="/" class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none">
+                    Home</a>
+                <div class="row">
+                    <div class="col-12 pt-4" id="template">
+
+                    </div>
+                </div>
+            </main>
         </div>
     </div>
 
     <script>
-        var myModule = angular.module("myApp", []);
-        myModule.filter("trust", ['$sce', function ($sce) {
-            return function (htmlCode) {
-                return $sce.trustAsHtml(htmlCode);
-            }
-        }]);
-        var myController = myModule.controller("myController", ["$scope", "$http",
-            function ($scope, $http) {
-                $scope.template = "";
-                $scope.sidebar = "";
-                $scope.css = "light_one";
-                $scope.loadcss = function (st) {
-                    $scope.css = st;
-                }
-                $scope.loadsidebar = function () {
-                    $http.get("index.md").then(function (response) {
-                        const converter = new showdown.Converter();
-                        $scope.sidebar = converter.makeHtml(response.data);
-                    });
-                }
-                $scope.loadtemplate = function (tpl) {
-                    $http.get(tpl + ".md").then(function (response) {
-                        const converter = new showdown.Converter();
-                        $scope.template = converter.makeHtml(response.data);
-                    });
-                }
-                $('#side').on('click', 'a', function () {
-                    var namefile = this.href.substring(this.href.lastIndexOf('/') + 1);
-                    $http.get(namefile).then(function (response) {
-                        const converter = new showdown.Converter();
-                        $scope.template = converter.makeHtml(response.data);
-                    });
-                    return false;
-                });
-                $scope.loadsidebar();
-                $scope.loadtemplate("welcome");
-                $scope.goHome = function () {
-                    $scope.loadtemplate("welcome");
-                }
-                $scope.goMenu = function () {
-                    $scope.loadtemplate("index");
-                }
-                $scope.layoutOne = function () {
-                    $scope.loadcss("one");
-                }
-            },
-        ]);
-    </script>
+        document.addEventListener("DOMContentLoaded", function (event) {
+            let loadtemplate = function (tpl) {
+                fetch(tpl + ".md").then(function (response) {
+                    return response.text();
+                }).then(function (code) {
 
-    </div>
+                    const converter = new showdown.Converter();
+                    //$scope.template = converter.makeHtml(response.data);
+
+                    const elem = document.getElementById('template');
+                    elem.innerHTML = converter.makeHtml(code);
+
+                    let strIndex = ' <div class="list-group list-group-flush border-bottom scrollarea">';
+                    //console.log(document.querySelectorAll("h1, h2, h3, h4, h5, h6"));
+                    document.querySelectorAll("h1, h2, h3").forEach(function (element, indice) {
+
+                        //console.log(element);
+                        element.setAttribute("id", element.tagName + indice)
+                        //console.log(index + ": " + $(this).prop("tagName") + " - " + $(this).text());
+                        if (element.tagName == "H1") {
+                            strIndex += '<li class="list-group-item list-group-item-warning">';
+                            strIndex += '<a style="margin-left:0px;font-size:1.2em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                        } else {
+                            if (element.tagName == "H2") {
+                                strIndex += '<li class="list-group-item list-group-item-primary">';
+                                strIndex += '<a style="margin-left:20px;font-size:1em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                            } else {
+                                if (element.tagName == "H3") {
+                                    strIndex += '<li class="list-group-item list-group-item-secondary">';
+                                    strIndex += '<a style="margin-left:50px;font-size:0.8em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                                } else {
+
+                                }
+                            }
+
+                        }
+
+                        //strIndex += '<div class="d-flex w-100 align-items-center justify-content-between">';
+                        //strIndex += '<strong class="mb-1">';
+                        strIndex += '<span>';
+                        strIndex += element.tagName + " - " + element.textContent;
+                        strIndex += '</span>';
+                        //strIndex += '</strong>';
+                        //strIndex += '</div>';
+                        strIndex += "</a>";
+                        strIndex += "</li>";
+
+                    });
+
+
+                    document.getElementById('index').innerHTML = strIndex;
+                });
+            }
+            loadtemplate("database");
+        });
+
+
+
+    </script>
 </body>
 
 </html>
