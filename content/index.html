@@ -92,56 +92,57 @@
                             }
                         }
                     });
-                });
 
+                    fetch(tpl).then(function (response) {
+                        return response.text();
+                    }).then(function (code) {
 
-                fetch(tpl).then(function (response) {
-                    return response.text();
-                }).then(function (code) {
+                        const elem = document.getElementById('template');
+                        const converter = new showdown.Converter();
+                        elem.innerHTML = converter.makeHtml(code);
 
-                    const elem = document.getElementById('template');
-                    const converter = new showdown.Converter();
-                    elem.innerHTML = converter.makeHtml(code);
+                        strIndex += ' <div class="list-group list-group-flush border-bottom scrollarea">';
+                        document.querySelectorAll("h1, h2, h3").forEach(function (element, indice) {
 
-                    strIndex += ' <div class="list-group list-group-flush border-bottom scrollarea">';
-                    document.querySelectorAll("h1, h2, h3").forEach(function (element, indice) {
-
-                        element.setAttribute("id", element.tagName + indice)
-                        if (element.tagName == "H1") {
-                            strIndex += '<li class="list-group-item list-group-item-warning">';
-                            strIndex += '<a style="margin-left:0px;font-size:1.2em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
-                            strIndex += '<span>' + element.textContent + '</span>';
-                            strIndex += "</a></li>";
-                        } else {
-                            if (element.tagName == "H2") {
-                                strIndex += '<li class="list-group-item list-group-item-primary">';
-                                strIndex += '<a style="margin-left:20px;font-size:1em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                            element.setAttribute("id", element.tagName + indice)
+                            if (element.tagName == "H1") {
+                                strIndex += '<li class="list-group-item list-group-item-warning">';
+                                strIndex += '<a style="margin-left:0px;font-size:1.2em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
                                 strIndex += '<span>' + element.textContent + '</span>';
                                 strIndex += "</a></li>";
                             } else {
-                                if (element.tagName == "H3") {
-                                    strIndex += '<li class="list-group-item list-group-item-secondary">';
-                                    strIndex += '<a style="margin-left:50px;font-size:0.8em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                                if (element.tagName == "H2") {
+                                    strIndex += '<li class="list-group-item list-group-item-primary">';
+                                    strIndex += '<a style="margin-left:20px;font-size:1em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
                                     strIndex += '<span>' + element.textContent + '</span>';
                                     strIndex += "</a></li>";
+                                } else {
+                                    if (element.tagName == "H3") {
+                                        strIndex += '<li class="list-group-item list-group-item-secondary">';
+                                        strIndex += '<a style="margin-left:50px;font-size:0.8em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                                        strIndex += '<span>' + element.textContent + '</span>';
+                                        strIndex += "</a></li>";
+                                    }
                                 }
                             }
+                        });
+
+                        document.getElementById('index').innerHTML = strIndex;
+
+                        var slides = document.getElementsByClassName("outside-link");
+                        for (var i = 0; i < slides.length; i++) {
+                            slides.item(i).onclick = function () {
+                                document.getElementById('index').innerHTML = '';
+                                document.getElementById('template').innerHTML = '';
+                                loadtemplate(this.getAttribute('href'));
+                                return false;
+                            }
                         }
+
                     });
 
-                    document.getElementById('index').innerHTML = strIndex;
-
-                    var slides = document.getElementsByClassName("outside-link");
-                    for (var i = 0; i < slides.length; i++) {
-                        slides.item(i).onclick = function () {
-                            document.getElementById('index').innerHTML = '';
-                            document.getElementById('template').innerHTML = '';
-                            loadtemplate(this.getAttribute('href'));
-                            return false;
-                        }
-                    }
-
                 });
+
             }
             loadtemplate("welcome.md");
         });
