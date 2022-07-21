@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="myApp" ng-controller="myController">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+        </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+
+    <title>ROADMAPS</title>
+
+    <link rel="shortcut icon" type="image/png" href="roadmaps.png" />
+
+</head>
+
+<body>
+
+
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto px-0">
+                <div id="sidebar" class="collapse collapse-horizontal show border-end" style="width: 350px;">
+                    <div id="index" class="list-group border-0 rounded-0 text-sm-start min-vh-100">
+
+                    </div>
+                </div>
+            </div>
+            <main class="col pt-2">
+                <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse"
+                    class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none">Menu</a>
+                <a href="/roadmaps/content/" class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none">Home</a>
+                <div class="row">
+                    <div class="col-12 pt-4" id="template">
+
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function (event) {
+            let loadtemplate = function (tpl) {
+
+                fetch("index.md").then(function (response) {
+                    return response.text();
+                }).then(function (code) {
+
+                    const elem = document.getElementById('template');
+                    const converter = new showdown.Converter();
+                    elem.innerHTML = converter.makeHtml(code);
+
+                    strIndex = ' <div class="list-group list-group-flush border-bottom scrollarea">';
+
+                    document.querySelectorAll("h1, h2, a").forEach(function (element, indice) {
+
+                        element.setAttribute("id", element.tagName + indice)
+                        if (element.tagName == "H1") {
+                            strIndex += '<li class="list-group-item list-group-item-warning">';
+                            strIndex += '<span style="margin-left:0px;font-size:1.2em" data-bs-parent="#sidebar">';
+                            strIndex += '<span>' + element.textContent + '</span>';
+                            strIndex += '</span></li>';
+                        } else {
+                            if (element.tagName == "H2") {
+                                strIndex += '<li class="list-group-item list-group-item-primary">';
+                                strIndex += '<span style="margin-left:20px;font-size:1em" data-bs-parent="#sidebar" href="' + indice + '">';
+                                strIndex += '<span>' + element.textContent + '</span>';
+                                strIndex += '</span></li>';
+                            } else {
+                                if (element.tagName == "A") {
+                                    if (!element.className.startsWith("btn")) {
+                                        strIndex += '<li class="list-group-item list-group-item-secondary">';
+                                        strIndex += '<a class="outside-link" style="margin-left:50px;font-size:0.8em" data-bs-parent="#sidebar" href="' + element.getAttribute("href") + '">';
+                                        strIndex += '<span>' + element.textContent + '</span>';
+                                        strIndex += '</span></a></li>';
+                                    }
+                                }
+                            }
+                        }
+                    });
+                });
+
+
+                fetch(tpl).then(function (response) {
+                    return response.text();
+                }).then(function (code) {
+
+                    const elem = document.getElementById('template');
+                    const converter = new showdown.Converter();
+                    elem.innerHTML = converter.makeHtml(code);
+
+                    strIndex += ' <div class="list-group list-group-flush border-bottom scrollarea">';
+                    document.querySelectorAll("h1, h2, h3").forEach(function (element, indice) {
+
+                        element.setAttribute("id", element.tagName + indice)
+                        if (element.tagName == "H1") {
+                            strIndex += '<li class="list-group-item list-group-item-warning">';
+                            strIndex += '<a style="margin-left:0px;font-size:1.2em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                            strIndex += '<span>' + element.textContent + '</span>';
+                            strIndex += "</a></li>";
+                        } else {
+                            if (element.tagName == "H2") {
+                                strIndex += '<li class="list-group-item list-group-item-primary">';
+                                strIndex += '<a style="margin-left:20px;font-size:1em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                                strIndex += '<span>' + element.textContent + '</span>';
+                                strIndex += "</a></li>";
+                            } else {
+                                if (element.tagName == "H3") {
+                                    strIndex += '<li class="list-group-item list-group-item-secondary">';
+                                    strIndex += '<a style="margin-left:50px;font-size:0.8em" data-bs-parent="#sidebar" href="#' + element.tagName + indice + '">';
+                                    strIndex += '<span>' + element.textContent + '</span>';
+                                    strIndex += "</a></li>";
+                                }
+                            }
+                        }
+                    });
+
+                    document.getElementById('index').innerHTML = strIndex;
+
+                    var slides = document.getElementsByClassName("outside-link");
+                    for (var i = 0; i < slides.length; i++) {
+                        slides.item(i).onclick = function () {                    
+                            document.getElementById('index').innerHTML = '';
+                            document.getElementById('template').innerHTML = '';
+                            loadtemplate(this.getAttribute('href'));
+                            return false;
+                        }
+                    }
+
+                });
+            }
+            loadtemplate("welcome.md");
+        });
+    </script>
+</body>
+
+</html>
