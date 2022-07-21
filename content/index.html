@@ -35,16 +35,20 @@
                     </div>
                 </div>
             </div>
-            <main class="col pt-2">
-                <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse"
-                    class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none">Menu</a>
-                <a href="/roadmaps/content/" class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none">Home</a>
+            <div class="col pt-2">
                 <div class="row">
-                    <div class="col-12 pt-4" id="template">
 
+                </div>
+                <div class="row">
+                    <div class="col-12 pt-4 clearfix">
+                        <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse"
+                            class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none float-md-end">Menu</a>
+                        <a href="/roadmaps/content/"
+                            class="btn btn-primary rounded-3 m-2 p-2 text-decoration-none float-md-end">Home</a>
+                        <p id="template"></p>
                     </div>
                 </div>
-            </main>
+            </div>
         </div>
     </div>
 
@@ -129,7 +133,7 @@
 
                     var slides = document.getElementsByClassName("outside-link");
                     for (var i = 0; i < slides.length; i++) {
-                        slides.item(i).onclick = function () {                    
+                        slides.item(i).onclick = function () {
                             document.getElementById('index').innerHTML = '';
                             document.getElementById('template').innerHTML = '';
                             loadtemplate(this.getAttribute('href'));
