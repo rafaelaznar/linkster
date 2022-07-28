@@ -20,6 +20,7 @@
 * [WHAT IS A MONOREPO](https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo)
 * [The Project KeePassXC]( https://keepassxc.org/project/)
 * [Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS](https://www.opensourcealternative.to/?category=Database)
+* [THE BASIC LAWS OF HUMAN STUPIDITY By Carlo M. Cipolla](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/)
 ## LISP
 * [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
 ## Prolog
