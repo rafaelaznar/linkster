@@ -24,6 +24,7 @@ The roadmap is
 Also feel free to use the program under index.html 
 * when I consider finished I'll create a repo called "linkenda"
 * use in combination with your links colllection in README.md
+* pendent: clear button, list of banned words
 
 Participate via pull-request.
 
