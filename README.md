@@ -2,9 +2,7 @@
 
 ### Roadmaps repository contains selected links on computer science & web development.
 
-[Website](https://rafaelaznar.github.io/roadmaps/content)
-
-[Github](content/index.md)
+Website: https://rafaelaznar.github.io/roadmaps
 
 I encourage my students:
 - be authonomous to search the Internet to improve skills and programs
