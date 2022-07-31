@@ -25,7 +25,9 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>ROADMAPS CLOUD</h1>
+                <div class="center-block text-center m-5">
+                    <h1>ROADMAPS</h1>
+                </div>
             </div>
         </div>
         <div class="row">
@@ -33,6 +35,14 @@
                 <div id="index"></div>
             </div>
             <div id="selected"></div>
+        </div>
+        <div class="row">
+            <div class="center-block text-center m-2">
+                <input type="radio" class="btn-check" name="options-orand" id="or-outlined" autocomplete="off" checked>
+                <label class="btn btn-outline-warning" for="or-outlined">OR</label>
+                <input type="radio" class="btn-check" name="options-orand" id="and-outlined" autocomplete="off">
+                <label class="btn btn-outline-warning" for="and-outlined">AND</label>
+            </div>
         </div>
         <div class="row">
             <p id="template"></p>
@@ -55,31 +65,31 @@
                     const singleMatch = /\[([^\[]+)\]\((.*)\)/
                     for (var i = 0; i < matches.length; i++) {
                         var text = singleMatch.exec(matches[i])
-                        links.push({ t: text[1], l: text[2], w: 0, s: false })
-                        words = text[1].match(/\w+|\s+|[^\s\w]+/g)
+                        links.push({ w: 0, s: false, l: text[2], t: text[1] })
+                        words = text[1].match(/\w+|\s+|#[0-9]+|[^\s\w]+/g)
                         for (var j = 0; j < words.length; j++) {
                             if (words[j].length > 3) {
                                 inside = false;
                                 for (var k = 0; k < terms.length; k++) {
                                     if (words[j] == terms[k].w) {
                                         inside = true;
-                                        terms[k].l.push(links.length);
+                                        terms[k].l.push(links.length - 1);
                                         break;
                                     }
                                 }
                                 if (!inside) {
-                                    terms.push({ w: words[j], l: [links.length], s: false });
+                                    terms.push({ w: words[j], l: [links.length - 1], s: false });
                                 }
                             } else {
                                 if (words[j].startsWith("#")) {
                                     orderNumber = words[j].substring(words[j].indexOf('#') + 1)
-                                    if (Number.isInteger(orderNumber)) {
-                                        links[links.length - 1].w = orderNumber;                                        
+                                    if (Number.isInteger(parseInt(orderNumber))) {
+                                        links[links.length - 1].w = parseInt(orderNumber) + links[links.length - 1].w;
                                     }
 
                                 }
                             }
-                        }                     
+                        }
                     }
                     refreshTags();
                 });
@@ -87,21 +97,42 @@
             }
             function refreshLinks() {
                 links.filter(l => l.s == true).forEach(l => l.s = false);
-                terms.filter(t => t.s == true).map(t => t.l).forEach(al => al.forEach(l => links[l].s = true));
+                if (document.getElementById("or-outlined").checked) {
+                    terms.filter(t => t.s == true).map(t => t.l).forEach(al => al.forEach(l => links[l].s = true));
+                } else {
+                    if (terms.filter(t => t.s == true).map(t => t.l).length > 0) {
+                        terms.filter(t => t.s == true).map(t => t.l).reduce((a, b) => b.filter(Set.prototype.has.bind(new Set(a)))).forEach(l => links[l].s = true);
+                    }
+                }
             }
             function refreshBody() {
                 refreshLinks();
+                //const indexedTermsArr = links.map((t, index) => ({ ...t, i: index }));
                 const visibleLinksArr = links.filter(l => l.s == true);
-                const linksArrCode = visibleLinksArr.map(l => `<li><a href="${l.l}">${l.t} ${l.w}</a></li>`);
-                const linksStrCode = linksArrCode.reduce((acc, curr) => acc + curr, '<ul>') + '</ul>';
-                document.getElementById('template').innerHTML = linksStrCode;
+                const sortedVisibleLinksArr = visibleLinksArr.sort((a, b) => (a.w < b.w) ? 1 : ((b.w < a.w) ? -1 : 0));
+                const sortedLinksArrCode = sortedVisibleLinksArr.map(l => `<li><a href="${l.l}">${l.t}</a></li>`);
+                const sortedLinksStrCode = sortedLinksArrCode.reduce((acc, curr) => acc + curr, '<ul>') + '</ul>';
+                const code = `<div class="center-block text-center m-2"><h2>${sortedLinksArrCode.length} results</h2></div>${sortedLinksStrCode}`;
+                document.getElementById('template').innerHTML = code;
             }
             function refreshTags() {
-                //let resultSelected = terms.filter(term => term.s==true);
-                index = "<p>";
-                selected = "<p>";
                 const fontFactor = 0.05;
                 const fontMinimal = 0.6;
+
+                const indexedTermsArr = terms.map((t, index) => ({ ...t, i: index }));
+
+                const selectedTermsArr = indexedTermsArr.filter(t => !t.s);
+                const selectedTermsCodeArr = selectedTermsArr.map(t => `<a id="${t.i}" style="text-decoration:none;font-size:${fontMinimal + (t.l.length * fontFactor)}em" class="m-1 tag badge rounded-pill bg-primary" href="#">${t.w}</a>`);
+                const selectedTermsCodeStr = selectedTermsCodeArr.reduce((acc, curr) => acc + curr, '<p>') + '</p>';
+                document.getElementById('index').innerHTML = selectedTermsCodeStr;
+
+                const unselectedTermsArr = indexedTermsArr.filter(t => t.s);
+                const unselectedTermsCodeArr = unselectedTermsArr.map(t => `<a id="${t.i}" style="text-decoration:none;font-size:${fontMinimal + (t.l.length * fontFactor)}em" class="m-1 selectedtag badge rounded-pill bg-success" href="#">${t.w}</a>`);
+                const unselectedTermsCodeStr = unselectedTermsCodeArr.reduce((acc, curr) => acc + curr, '<p>') + '</p>';
+                document.getElementById('selected').innerHTML = unselectedTermsCodeStr;
+                /*
+                index = "<p>";
+                selected = "<p>";
                 for (var k = 0; k < terms.length; k++) {
                     if (!terms[k].s) {
                         index += `<a id="${k}" style="text-decoration:none;font-size:${fontMinimal + (terms[k].l.length * fontFactor)}em" class="m-1 tag badge rounded-pill bg-primary" href="#">${terms[k].w}</a>`;
@@ -111,13 +142,9 @@
                 }
                 index += "</p>";
                 selected += "</p>";
-
-                const elemindex1 = document.getElementById('index');
-                elemindex1.innerHTML = index;
-
-                const elemindex2 = document.getElementById('selected');
-                elemindex2.innerHTML = selected;
-
+                document.getElementById('index').innerHTML = index;
+                document.getElementById('selected').innerHTML = selected;
+                */
                 assignTagEvents();
                 assignSelectedTagEvents();
 
@@ -147,6 +174,13 @@
                     });
                 });
             }
+            let radios = document.querySelectorAll('input[type=radio][name="options-orand"]');
+            Array.prototype.forEach.call(radios, function (radio) {
+                radio.addEventListener('change', function (event) {
+                    refreshBody();
+                    event.preventDefault();
+                });
+            });
             loadtemplate();
         });
     </script>
