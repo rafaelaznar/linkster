@@ -48,7 +48,6 @@ Participate via pull-request.
 * [Programs_Design: Paradigms: Programming_Principles: YAGNI: You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 * [Programs_Design: Paradigms: Programming_Principles: YAGNI by Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
 * [Programs_Design: Paradigms: Programming_Principles: YAGNI Principle in 100 seconds](https://dev.to/richardwynn/yagni-principle-in-100-seconds-1i6j)
-
 * [Programs_Design: Design_Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 * [#1 Programs_Design: Design_Patterns: The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [Programs_Design: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://www.patterns.dev/posts/classic-design-patterns/)
@@ -56,7 +55,6 @@ Participate via pull-request.
 * [Programs_Design: Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
 * [Programs_Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
-
 
 
 ### Pendent
