@@ -21,6 +21,10 @@ The roadmap is
 - a collection of useful links
 - where to start your readings
 
+Also feel free to use the program under index.html 
+* when I consider finished I'll create a repo called "linkenda"
+* use in combination with your links colllection in README.md
+
 Participate via pull-request.
 
 # Links
