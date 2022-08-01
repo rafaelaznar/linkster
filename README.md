@@ -24,7 +24,6 @@ The roadmap is
 Also feel free to use the program under index.html 
 * when I consider finished I'll create a repo called "linkenda"
 * use in combination with your links colllection in README.md
-* pendent: clear button, list of banned words
 
 Participate via pull-request.
 
@@ -57,16 +56,33 @@ Participate via pull-request.
 * [Programs_Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
 
+* [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+
+* [Top 8 Most Demanded Programming Languages in 2022](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
+* [Programming Languages: stackoverflow developer survey: In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want](https://survey.stackoverflow.co/2022/)
+* [Six Programming Languages I'd Like to See](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
+
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+* [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
+
+* [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
+
+* [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
+
+* [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
+
+* [swagger](https://swagger.io/)
+
+
+## UML
+
 
 ### Pendent
 
 # Development
 * [GIT](git.md)
 
-
-
-* [Algoritmics](algoritmics.md)
-* [Software industry](swindustry.md)
 # Web development
 * [CORS](cors.md)
 # The client
