@@ -73,7 +73,7 @@ Participate via pull-request.
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 
 * [swagger](https://swagger.io/)
-
+* [FP: ES5: ES6: You don't (may not) need Lodash / Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
 ## UML
 
