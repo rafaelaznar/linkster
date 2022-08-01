@@ -99,7 +99,8 @@
                             }
                         }
                     }
-                    terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0)).map(n => n.toLowerCase());
+                    terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0));
+                    terms = terms.map(n => ({ ...n, w:n.w.toLowerCase() }));
                     refreshTags();
                 });
 
