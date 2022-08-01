@@ -45,6 +45,11 @@
             </div>
         </div>
         <div class="row">
+            <div class="center-block text-center m-2">
+                <button type="button" id="clear" class="btn btn-danger">Clear</button>
+            </div>
+        </div>        
+        <div class="row">
             <p id="template"></p>
         </div>
     </div>
@@ -182,6 +187,11 @@
                 });
             });
             loadtemplate();
+            document.getElementById('clear').addEventListener('click', function (event) {                
+                terms.forEach(l => l.s = false);
+                refreshTags();
+                refreshBody();
+            })
         });
     </script>
 </body>
