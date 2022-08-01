@@ -56,8 +56,11 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", function (event) {
+            let bannedWords = ['into', 'from', 'less', 'have', 'here', 'just'];
+            let terms = [];
+            let links = [];
             let loadtemplate = function () {
-
+                
                 fetch("README.md").then(function (response) {
                     return response.text();
                 }).then(function (code) {
@@ -96,6 +99,7 @@
                             }
                         }
                     }
+                    terms = terms.filter(l => !bannedWords.includes(l.w));
                     refreshTags();
                 });
 
