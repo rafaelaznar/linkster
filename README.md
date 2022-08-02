@@ -126,17 +126,17 @@ Participate via pull-request.
 * [VERY ADVANCED FUNCTIONAL: Mostly Adequate guide to the functional programming with JavaScript.](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 * [ALGORITHMS AND DATA STRUCTURES: JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 ### Javascript: Interview questions
-* https://www.javatpoint.com/javascript-interview-questions
-* https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
-* https://gitplanet.com/project/javascript-interview-questions
-* https://mindmajix.com/javascript-interview-questions
-* https://www.softwaretestinghelp.com/javascript-interview-questions/
-* https://www.interviewbit.com/javascript-interview-questions/
-* https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
-* https://www.toptal.com/javascript/interview-questions
-* https://hackr.io/blog/javascript-interview-questions
-* https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions
-* https://www.dotnettricks.com/learn/javascript/javascript-interview-questions
+* [interview-questions](https://www.javatpoint.com/javascript-interview-questions)
+* [interview-questions](https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
+* [interview-questions](https://gitplanet.com/project/javascript-interview-questions)
+* [interview-questions](https://mindmajix.com/javascript-interview-questions)
+* [interview-questions](https://www.softwaretestinghelp.com/javascript-interview-questions/)
+* [interview-questions](https://www.interviewbit.com/javascript-interview-questions/)
+* [interview-questions](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)
+* [interview-questions](https://www.toptal.com/javascript/interview-questions)
+* [interview-questions](https://hackr.io/blog/javascript-interview-questions)
+* [interview-questions](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions)
+* [interview-questions](https://www.dotnettricks.com/learn/javascript/javascript-interview-questions)
 ### Javascript: Libraries & Documentation
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * https://devdocs.io/javascript/
@@ -144,11 +144,11 @@ Participate via pull-request.
 * https://underscorejs.org/
 * https://lodash.com/docs/4.17.15
 ### Javascript: Aggregators
-* SUBJECTS: http://jstherightway.org/
-* BOOKS: https://jsbooks.revolunet.com/
+* [Javascript SUBJECTS: ](http://jstherightway.org/)
+* [Javascript BOOKS:](https://jsbooks.revolunet.com/)
 ### Javascript: support in browsers
-* https://caniuse.com/?search=ECMAScript%202015
-* https://kangax.github.io/compat-table/es6/
+* [Javascript: caniuse](https://caniuse.com/?search=ECMAScript%202015)
+* [Javasctipt: compat-table](https://kangax.github.io/compat-table/es6/)
 ### Javascript: Video tutorials  
 * https://www.youtube.com/watch?v=hdI2bqOjy3c
 * https://www.youtube.com/watch?v=ec8vSKJuZTk
