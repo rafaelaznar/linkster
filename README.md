@@ -115,13 +115,16 @@ Participate via pull-request.
 * [CLASSIC: javascript.info](https://javascript.info/)
 * [CLASSIC: tutorialrepublic](https://www.tutorialrepublic.com/javascript-tutorial/)
 ### Javascript: Online books
-* [MODERN:](https://eloquentjavascript.net/)
+* [MODERN: Eloquent JavaScript](https://eloquentjavascript.net/)
 * [MODERN: Get Started, Scope & Closures, Objects & Classes...](https://github.com/getify/You-Dont-Know-JS)
-* [MODERN:](https://exploringjs.com/ & https://exploringjs.com/impatient-js/toc.html)
-* [CLASSIC ADVANCED:](https://addyosmani.com/resources/essentialjsdesignpatterns/book/ http://speakingjs.com/es5/index.html)
-* [ADVANCED MODERN:](https://exploringjs.com/es6/) https://exploringjs.com/es2016-es2017/index.html
-* [VERY ADVANCED FUNCTIONAL:](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-* [ALGORITHMS AND DATA STRUCTURES:](https://github.com/trekhleb/javascript-algorithms)
+* [MODERN: Exploring JS: JavaScript books for programmers](https://exploringjs.com/) 
+* [MODERN: JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+* [CLASSIC ADVANCED: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
+* [Speaking JavaScript](http://speakingjs.com/es5/index.html)
+* [ADVANCED MODERN: Exploring ES6: A book by Dr. Axel Rauschmayer ](https://exploringjs.com/es6/) 
+* [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/index.html)
+* [VERY ADVANCED FUNCTIONAL: Mostly Adequate guide to the functional programming with JavaScript.](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+* [ALGORITHMS AND DATA STRUCTURES: JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 ### Javascript: Interview questions
 * https://www.javatpoint.com/javascript-interview-questions
 * https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
