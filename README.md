@@ -138,11 +138,11 @@ Participate via pull-request.
 * [interview-questions](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions)
 * [interview-questions](https://www.dotnettricks.com/learn/javascript/javascript-interview-questions)
 ### Javascript: Libraries & Documentation
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript
-* https://devdocs.io/javascript/
-* https://jquery.com/
-* https://underscorejs.org/
-* https://lodash.com/docs/4.17.15
+* [Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [This part of the JavaScript section on MDN serves as a repository of facts about the JavaScript language](https://devdocs.io/javascript/)
+* [jquery](https://jquery.com/)
+* [underscore](https://underscorejs.org/)
+* [lodash](https://lodash.com/docs/4.17.15)
 ### Javascript: Aggregators
 * [Javascript SUBJECTS: ](http://jstherightway.org/)
 * [Javascript BOOKS:](https://jsbooks.revolunet.com/)
@@ -150,11 +150,11 @@ Participate via pull-request.
 * [Javascript: caniuse](https://caniuse.com/?search=ECMAScript%202015)
 * [Javasctipt: compat-table](https://kangax.github.io/compat-table/es6/)
 ### Javascript: Video tutorials  
-* https://www.youtube.com/watch?v=hdI2bqOjy3c
-* https://www.youtube.com/watch?v=ec8vSKJuZTk
-* https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s
-* https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list
-* Programming with Mosh BEGGINERS 1h: https://www.youtube.com/watch?v=W6NZfCO5SIk
+* [Youtube: JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+* [Youtube: Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=ec8vSKJuZTk)
+* [Youtube: Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s)
+* [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list)
+* [Javascript: Programming with Mosh BEGGINERS 1h:](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 * freeCodeCamp 7h: https://www.youtube.com/watch?v=jS4aFq5-91M
 * Codevolution BEGGINER: https://www.youtube.com/watch?v=XIOLqoPHCJ4
 * Codevolution DS: https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy
