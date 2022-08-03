@@ -68,14 +68,13 @@
 
                     const regexMdLinks = /\[([^\[]+)\](\(.*\))/gm
                     const matches = code.match(regexMdLinks)
-                    terms = [];
-                    links = [];
 
                     const singleMatch = /\[([^\[]+)\]\((.*)\)/
                     for (var i = 0; i < matches.length; i++) {
                         var text = singleMatch.exec(matches[i])
                         links.push({ w: 0, s: false, l: text[2], t: text[1] })
                         words = text[1].match(/\w+|\s+|#[0-9]+|[^\s\w]+/g)
+                        words = words.map(w => w.toLowerCase());
                         for (var j = 0; j < words.length; j++) {
                             if (words[j].length > 3) {
                                 inside = false;
@@ -101,8 +100,8 @@
                         }
                     }
                     terms = terms.filter(l => l.l.length > 1);
-                    terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0));
                     terms = terms.map(n => ({ ...n, w: n.w.toLowerCase() }));
+                    terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0));
                     refreshTags();
                 });
 
