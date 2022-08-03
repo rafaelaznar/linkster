@@ -28,6 +28,10 @@ Also feel free to use the program under index.html
 Participate via pull-request.
 
 # Links
+
+
+
+
 ## Foundations
 * [Foundations: The Internet from Rocks — A High Level Explanation of Computers and the Internet, by Julian ](https://julian.bearblog.dev/the-internet-from-rocks/)
 * [Foundations: Languages, complexity, algorithms, data structures](https://github.com/b7leung/MLE-Flashcards/blob/main/1%20Computer%20Science.pdf)
@@ -221,28 +225,19 @@ Participate via pull-request.
 * [Database SQL against GITHUB]( https://app.mergestat.com/w/public)
 
 ## API layers
-* https://supabase.com/
-* https://graphql.org/
-* https://strapi.io/
-
-## Tools
-* https://www.phpmyadmin.net/
-* https://www.mysql.com/products/workbench/
-* https://dbeaver.io/
-* https://www.liquibase.org/
-* https://github.com/plotly/falcon
-* http://sqlfiddle.com/
-
-## ACID
-* https://en.wikipedia.org/wiki/ACID
-
-## Stored triggers & procedures dilemma
-* https://brandur.org/fragments/code-database-vs-app
-
-## Reading
-* https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/
-
-
+* [Database API layers: supabase](https://supabase.com/)
+* [Database API layers: grsphql](https://graphql.org/)
+* [Database API layers: strapi](https://strapi.io/)
+* [Database tools: phpmyadmin](https://www.phpmyadmin.net/)
+* [Database tools: mysql workbench](https://www.mysql.com/products/workbench/)
+* [Database tools: dbeaver](https://dbeaver.io/)
+* [Database tools: liquibase](https://www.liquibase.org/)
+* [Database tools: falcon](https://github.com/plotly/falcon)
+* [Database tools: sqlfiddle](http://sqlfiddle.com/)
+* [Database ACID principles wikipedia](https://en.wikipedia.org/wiki/ACID)
+* [Database Stored triggers & procedures dilemma](https://brandur.org/fragments/code-database-vs-app)
+* [Top 5 Product and Management skills: SQL, Excel, Clear Communication, Story, Prioritization
+](https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/)
 
 ## Java
 * [The ORACLE Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
