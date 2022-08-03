@@ -48,7 +48,7 @@
             <div class="center-block text-center m-2">
                 <button type="button" id="clear" class="btn btn-danger">Clear</button>
             </div>
-        </div>        
+        </div>
         <div class="row">
             <p id="template"></p>
         </div>
@@ -56,11 +56,12 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", function (event) {
-            let bannedWords = ['into', 'from', 'less', 'have', 'here', 'just'];
+            let bannedWords = ['into', 'from', 'less', 'have', 'here', 'just', 'they',
+                'must', 'about', 'first', 'with', 'what', 'need'];
             let terms = [];
             let links = [];
             let loadtemplate = function () {
-                
+
                 fetch("README.md").then(function (response) {
                     return response.text();
                 }).then(function (code) {
@@ -79,14 +80,14 @@
                             if (words[j].length > 3) {
                                 inside = false;
                                 for (var k = 0; k < terms.length; k++) {
-                                    if (words[j] == terms[k].w) {
+                                    if (words[j] == terms[k].w.toLowerCase()) {
                                         inside = true;
                                         terms[k].l.push(links.length - 1);
                                         break;
                                     }
                                 }
                                 if (!inside) {
-                                    terms.push({ w: words[j], l: [links.length - 1], s: false });
+                                    terms.push({ w: words[j].toLowerCase(), l: [links.length - 1], s: false });
                                 }
                             } else {
                                 if (words[j].startsWith("#")) {
@@ -99,8 +100,9 @@
                             }
                         }
                     }
+                    terms = terms.filter(l => l.l.length > 1);
                     terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0));
-                    terms = terms.map(n => ({ ...n, w:n.w.toLowerCase() }));
+                    terms = terms.map(n => ({ ...n, w: n.w.toLowerCase() }));
                     refreshTags();
                 });
 
@@ -192,7 +194,7 @@
                 });
             });
             loadtemplate();
-            document.getElementById('clear').addEventListener('click', function (event) {                
+            document.getElementById('clear').addEventListener('click', function (event) {
                 terms.forEach(l => l.s = false);
                 refreshTags();
                 refreshBody();
