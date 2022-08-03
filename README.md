@@ -38,10 +38,10 @@ Participate via pull-request.
 * [Design: Paradigms: OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
 * [Design: Paradigms: OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
 * [Design: Paradigms: OOP: The Four Pillars of Object Oriented Programming](https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming)
-* [Design: Paradigms: Programming_Principles: SOLID principles](https://en.wikipedia.org/wiki/SOLID)
-* [Design: Paradigms: Programming_Principles: SOLID: The SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-* [Design: Paradigms: Programming_Principles: SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-* [Design: Paradigms: Programming_Principles: KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+* [Design: Paradigms: Programming Principles: SOLID principles](https://en.wikipedia.org/wiki/SOLID)
+* [Design: Paradigms: Programming Principles: SOLID: The SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+* [Design: Paradigms: Programming Principles: SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [Design: Paradigms: Programming Principles: KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
 * [Design: Paradigms: Programming_Principles: DRY principle: Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Design: Paradigms: Programming_Principles: AHA: The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [Design: Paradigms: Programming_Principles: AHA Programming](https://kentcdodds.com/blog/aha-programming)
@@ -95,6 +95,9 @@ Participate via pull-request.
 * [Practical CSS and design tips that helps in building future-proof user interfaces.](https://defensivecss.dev/)
 ## Web development: Bootstrap
 * [Powerful UI tools built with Bootstrap](https://github.com/StartBootstrap)
+# User Interface
+* [Why you probably shouldn't put forms in modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/) -> NOTE: I only use modals to inform the user, to confirm their actions or to choose values.
+* [How i experience web today](https://how-i-experience-web-today.com)
 ## Web development: Javascript
 ### Javascript: Links 
 * [CLASSIC INITIAL: MDN: A re-introduction to JavaScript (JS tutorial) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -190,6 +193,23 @@ Participate via pull-request.
 * [Angular tutorial](https://www.vitainbeta.org/2022/06/19/angular-tutorial-and-posts/)
 * [A Complete Angular Course](https://witscad.com/course/complete-angular-tutorial)
 * [5 Angular CLI Features You Didn't Know About](https://blog.mgechev.com/2019/02/06/5-angular-cli-features/)
+## Java
+* [The ORACLE Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
+* [JAVA Tutorial For Beginners](https://www.softwaretestinghelp.com/java/)
+* [Java Tutorial](https://www.studytonight.com/java/)
+* [Get Started with Java](https://www.baeldung.com/get-started-with-java-series)
+* [What is new in Java 17](https://mkyong.com/java/what-is-new-in-java-17/)
+* [Java Tutorial](https://www.tutorialspoint.com/java/index.htm)
+* [Java Tutorial](https://www.javatpoint.com/java-tutorial)
+* [Java Tutorial](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
+* [What Is Java? A Beginner’s Guide to Java and Its Evolution](https://www.edureka.co/blog/what-is-java/)
+* [wikibooks Java Programming](https://en.wikibooks.org/wiki/Java_Programming)
+* [Why Java Is Dying. What does the future hold for Java?](https://komalvenkatesh.medium.com/why-java-is-dying-b02b5fd44db9)
+* [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+* [Revisiting Java in 2021 - I: ](https://www.avanwyk.com/revisiting-java-in-2021-i/)
+* [Revisiting Java in 2021 - II:]( https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+ 
+
 
 
 ## Web development: APIs
@@ -224,9 +244,7 @@ Participate via pull-request.
 
 
 
-* [UI](ui.md)
-# The server
-* [Java](java.md)
+
 * [Spring](spring.md)
 * [Database](database.md)
 # Extra
