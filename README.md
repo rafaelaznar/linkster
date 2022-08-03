@@ -2,33 +2,7 @@
 
 ### Roadmaps repository contains selected links on computer science & web development.
 
-Website: https://rafaelaznar.github.io/roadmaps
-
-I encourage my students:
-- be authonomous to search the Internet to improve skills and programs
-- develop the ability to investigate the web to learn continually by themselves
-- not to read only one source
-- be up to date in technology
-
-I've been proposed to develop a book but I refused: 
-- it's all in the web
-- the effort to mantain books up to date is enormous
-- students don't search if they have a macro-book
-
-The roadmap is 
-- continuously improved with additions and deletions
-- a baseline to learn
-- a collection of useful links
-- where to start your readings
-
-Also feel free to use the program under index.html 
-* when I consider finished I'll create a repo called "linkenda"
-* use in combination with your links colllection in README.md
-
-Participate via pull-request.
-
-# Links
-
+https://rafaelaznar.github.io/roadmaps
 
 ## News
 * [Hacker news](https://news.ycombinator.com/)
@@ -78,9 +52,6 @@ Participate via pull-request.
 * [Java hashnode News](https://hashnode.com/n/java)
 * [Java reddit News](https://www.reddit.com/r/java/)
 * [Java newsnow News](https://www.newsnow.co.uk/h/Industry+Sectors/IT/Computer+Technology/Software/Java)
-
-
-
 
 ## Foundations
 * [Foundations: The Internet from Rocks — A High Level Explanation of Computers and the Internet, by Julian ](https://julian.bearblog.dev/the-internet-from-rocks/)
