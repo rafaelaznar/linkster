@@ -93,16 +93,11 @@ https://rafaelaznar.github.io/roadmaps
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 ## Software engineering
 * [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
-## Documentation
+## Code styling, Comments & Documentation 
 * [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
-## Code styling
+* [How to Comment Your Code](https://matt-rickard.com/how-to-comment-your-code)
 * [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-
-
-
-
-
 
 ## Web development: CORS
  * [MDN: Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
@@ -283,15 +278,13 @@ https://rafaelaznar.github.io/roadmaps
 * [Spring Tutorial for Beginners - with Examples:]( https://github.com/in28minutes/SpringIn28Minutes)
 * [Spring Initialzr](https://start.spring.io/)
 
-## Spring Boot
-### Introduction
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spring Boot: what is spring boot](https://stackify.com/what-is-spring-boot/)
 * [Spring Boot: Introduction to Spring Boot](https://www.geeksforgeeks.org/introduction-to-spring-boot/?ref=lbp)
-### History
+
 * [Spring Boot: Spring and Spring Boot Frameworks: A Brief History](https://dzone.com/articles/history-of-spring-framework-spring-boot-framework)
 * [Spring Boot: History of Spring Framework and Spring Boot](https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html)
-### Learn
+
 * [Spring Boot tutorial](https://www.tutorialspoint.com/spring_boot/spring_boot_introduction.htm)
 
 ## Web development: APIs
