@@ -155,32 +155,41 @@ Participate via pull-request.
 * [Youtube: Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s)
 * [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list)
 * [Javascript: Programming with Mosh BEGGINERS 1h:](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-* freeCodeCamp 7h: https://www.youtube.com/watch?v=jS4aFq5-91M
-* Codevolution BEGGINER: https://www.youtube.com/watch?v=XIOLqoPHCJ4
-* Codevolution DS: https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy
-* Codevolution ALGS: https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa
-* Codevolution ADVANCED: https://www.youtube.com/watch?v=R9I85RhI7Cg
+* [Youtube: JavaScript: freeCodeCamp 7h:]( https://www.youtube.com/watch?v=jS4aFq5-91M)
+* [Youtube: JavaScript: Codevolution BEGGINER:](https://www.youtube.com/watch?v=XIOLqoPHCJ4)
+* [Youtube: JavaScript: Codevolution DS:](https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
+* [Youtube: JavaScript: Codevolution ALGS: ](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
+* [Youtube: JavaScript: Codevolution ADVANCED:](https://www.youtube.com/watch?v=R9I85RhI7Cg)
 ### Typescript: links
 * https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
 * https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 * https://www.typescriptlang.org/docs/
 * https://www.typescripttutorial.net/
-* BOOK -> https://basarat.gitbook.io/typescript/
+* [BOOK: basarat typescript](https://basarat.gitbook.io/typescript/)
 * https://github.com/melissarofman/typescript-book
 * https://github.com/microsoft/TypeScript/blob/main/doc/spec-ARCHIVED.md
 * https://www.tutorialspoint.com/typescript/index.htm
 ## Javascript: Framework-less SPA's
 * [Framework-less Single Page Application](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c)
 ## Javascript: Functional programming
-* https://opensource.com/article/17/6/functional-javascript
+* [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 * https://github.com/hemanth/functional-programming-jargon
-* Double arrow vs currying & partial applications => https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript
+* [Double arrow vs currying & partial applications](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
 ## Javascript: RxJs
 * https://rxjs.dev/
 * https://www.learnrxjs.io/
 * https://angular.io/guide/rx-library
 * https://rxmarbles.com/
 * https://www.tutorialspoint.com/rxjs/index.htm
+## Angular
+* [Angular Website](https://angular.io/)
+* [Angular Wikipedia](https://en.wikipedia.org/wiki/Angular_(web_framework))
+* [AngularJS Youtube](https://www.youtube.com/user/angularjs)
+* [ng-conf Youtube](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+* [Angular Architecture Overview](https://medium.com/@bhavikagarg8/angular-architecture-overview-1e7cc7483a0)
+* [Angular tutorial](https://www.vitainbeta.org/2022/06/19/angular-tutorial-and-posts/)
+* [A Complete Angular Course](https://witscad.com/course/complete-angular-tutorial)
+* [5 Angular CLI Features You Didn't Know About](https://blog.mgechev.com/2019/02/06/5-angular-cli-features/)
 
 
 ## Web development: APIs
@@ -195,8 +204,8 @@ Participate via pull-request.
 
 
 
-* [Javascript](javascript.md)
-* [Angular](angular.md)
+
+
 * [Markdown](markdown.md)
 * [UI](ui.md)
 # The server
