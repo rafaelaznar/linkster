@@ -291,6 +291,7 @@ Participate via pull-request.
 * [Markdown online editor dillinger](https://dillinger.io/)
 * [Markdown online editor stackedit](https://stackedit.io/)
 * [Markdown online editor pandao](https://pandao.github.io/editor.md/en.html)
+* [Casual-Markdown-Doc provide a quick solution to use markdown as document.](https://github.com/casualwriter/casual-markdown-doc)
 
 
 
