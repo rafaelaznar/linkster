@@ -365,8 +365,6 @@ https://rafaelaznar.github.io/roadmaps
 * [Chart.js module for charting graphs.](https://github.com/sgratzl/chartjs-chart-graph)
 
 
-----
-* [GIT](git.md)
 
 
 
