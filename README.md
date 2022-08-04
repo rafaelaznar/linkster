@@ -127,7 +127,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Powerful UI tools built with Bootstrap](https://github.com/StartBootstrap)
 
 
-# User Interface
+## User Interface
 * [Why you probably shouldn't put forms in modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/) -> NOTE: I only use modals to inform the user, to confirm their actions or to choose values.
 * [How i experience web today](https://how-i-experience-web-today.com)
 
@@ -322,7 +322,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Markdown online editor pandao](https://pandao.github.io/editor.md/en.html)
 * [Casual-Markdown-Doc provide a quick solution to use markdown as document.](https://github.com/casualwriter/casual-markdown-doc)
 
-# Didactics
+## Didactics
 * [10 Lessons of an MIT Education by Gian-Carlo Rota](https://www.math.tamu.edu/~cyan/Rota/mitless.html)
 
 ## Geek Links
