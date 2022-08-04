@@ -79,6 +79,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Design: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://www.patterns.dev/posts/classic-design-patterns/)
 * [Design: Paradigms: AOP: What is aspect-oriented programming?](https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming)
 * [Design: Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
+* [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 ## Functional programming
 * [FP: ES5: ES6: You don't (may not) need Lodash / Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 * [Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
