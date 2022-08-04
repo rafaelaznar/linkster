@@ -98,7 +98,13 @@ https://rafaelaznar.github.io/roadmaps
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 * [How to Comment Your Code](https://matt-rickard.com/how-to-comment-your-code)
 * [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-
+## GIT
+* [GIT wikipedia](https://en.wikipedia.org/wiki/Git)
+* [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [GIT tutorial](https://www.atlassian.com/git/tutorials)
+* [GIT guide](https://rogerdudler.github.io/git-guide/)
+* [GIT github](https://docs.github.com/es)
+* [GIT book](https://git-scm.com/book/en/v2)
 ## Web development: CORS
  * [MDN: Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
  * [W3C: MDN Cross-Origin Resource Sharing (CORS)](https://www.w3.org/wiki/CORS_Enabled)
@@ -192,6 +198,7 @@ https://rafaelaznar.github.io/roadmaps
 * https://github.com/melissarofman/typescript-book
 * https://github.com/microsoft/TypeScript/blob/main/doc/spec-ARCHIVED.md
 * https://www.tutorialspoint.com/typescript/index.htm
+* [Programming with the TypeScript type system](https://github.com/charleswaddell/show-and-tell-30-06-2022)
 ## Javascript: Framework-less SPA's
 * [Framework-less Single Page Application](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c)
 ## Javascript: Functional programming
@@ -307,19 +314,60 @@ https://rafaelaznar.github.io/roadmaps
 * [Markdown online editor pandao](https://pandao.github.io/editor.md/en.html)
 * [Casual-Markdown-Doc provide a quick solution to use markdown as document.](https://github.com/casualwriter/casual-markdown-doc)
 
+# Didactics
+* [10 Lessons of an MIT Education by Gian-Carlo Rota](https://www.math.tamu.edu/~cyan/Rota/mitless.html)
 
-
-
+## Geek Links
+* [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+* [A curated list of papers that may be of interest to Software Engineering students or professionals.](https://github.com/facundoolano/software-papers/)
+* [NU Midnight Commander (also referred to as MC) is a user shell with text-mode full-screen interface.](https://github.com/MidnightCommander/mc)
+* [tere - a faster alternative to cd + ls](https://github.com/mgunyho/tere)
+* [Consciousness is not computation]( https://joe-antognini.github.io/ml/consciousness)
+* [Software Architecture: It Might Not Be What You Think It Is: "software architects must still be developers"]( https://www.infoq.com/articles/what-software-architecture/)
+* [Do large language models understand us?]( https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
+* [Google announcing the first SHA1 collision]( https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+* [Stop Interviewing With Leet Code:]( https://fev.al/posts/leet-code/)
+* [10 Surprising Things You Didn't Know About HTTP]( https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713)
+* [Public CDNs Are Useless and Dangerous]( https://httptoolkit.tech/blog/public-cdn-risks/)
+* [:point_right: Apple autofill domain list in one plain text file](https://cdn.smoot.apple.com/static/autofill_tld_whitelist_url)
+* [Find a good available .com domain]( https://sive.rs/com)
+* [WHY JSON ISN’T A GOOD CONFIGURATION LANGUAGE]( https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/)
+* [A beautiful personal server OS for self-hosting]( https://umbrel.com/)
+* [:point_right: Using generics in Spring Data JPA repositories]( https://stackoverflow.com/questions/19417670/using-generics-in-spring-data-jpa-repositories)
+* [Download Bitcoin Blockchain: [bootstrap.dat]](https://flo.sh/download-bitcoin-blockchain-bootstrap/)
+* [WHAT IS A MONOREPO](https://www.robinwieruch.de/javascript-monorepos/#what-is-a-monorepo)
+* [The Project KeePassXC]( https://keepassxc.org/project/)
+* [Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS](https://www.opensourcealternative.to/?category=Database)
+* [THE BASIC LAWS OF HUMAN STUPIDITY By Carlo M. Cipolla](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/)
+## LISP
+* [LISP in 99 lines of C](https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf)
+## Prolog
+* [The power of PROLOG]( https://www.metalevel.at/prolog)
+* [Kernel Prolog - a lightweight Java-based Prolog system](https://code.google.com/archive/p/kernel-prolog/downloads)
+* [PROLOG in 200 lines of C++](https://www.cl.cam.ac.uk/~am21/research/funnel/prolog.c)
+## Publishing
+* [Publishing your work increases your luck]( https://github.com/readme/guides/publishing-your-work)
+* [ Ten Lessons I wish I had been Taught by Gian-Carlo Rota](https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
+* [Writing is hard]( https://blog.torh.net/2022/06/14/writing-is-hard/)
+* [Technical Writing for Developers](https://css-tricks.com/technical-writing-for-developers/)
+## Lambda calculus
+* [lambda calculus: Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness)
+* [lambda calculus: To Mock a Mockingbird](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird)
+* [lambda calculus: birds](https://www.angelfire.com/tx4/cus/combinator/birds.html)
+* [lambda calculus: SKI combinator](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
+* [lambda calculus: combinator calculus](http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/)
+* [lambda calculus: ski combinator calculus in java](https://blog.tmorris.net/posts/ski-combinator-calculus-in-java/)
+* [lambda calculus: combinatris](http://dirk.rave.org/combinatris/)
+## Randomness
+* [Creating Randomness Without Math.random](https://healeycodes.com/creating-randomness)
+* [Pure Randomness Extracted from Two Poor Sources](https://cacm.acm.org/magazines/2017/1/211100-pure-randomness-extracted-from-two-poor-sources/fulltext)
+* [A New Algorithm for Controlled Randomness](https://probablydance.com/2019/08/28/a-new-algorithm-for-controlled-randomness/)
+* [Chart.js module for charting graphs.](https://github.com/sgratzl/chartjs-chart-graph)
 
 
 ----
 * [GIT](git.md)
 
-# Extra
-* [Formal Foundations](formal.md)
-* [News](news.md)
-* [Didactics](didactics.md)
-* [GEEK](geek.md)
 
 
 
