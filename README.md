@@ -112,18 +112,26 @@ https://rafaelaznar.github.io/roadmaps
 ## Web development: HTML 5
 * [Markup: HTML tutorial](https://www.tutorialrepublic.com/html-tutorial/)
 * [Markup: HTML: HyperText Markup Language](https://devdocs.io/html/)
-### Bolierplates
+
 * [Markup: HTML5 Boilerplate wikipedia](https://en.wikipedia.org/wiki/HTML5_Boilerplate)
 * [Markup: HTML5 Boilerplate](https://html5boilerplate.com/)
 * [Markup: HTML5 Boilerplate initializr](http://www.initializr.com/)
 * [Markup: HTML5 Boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
+
+
 ## Web development: CSS
 * [Practical CSS and design tips that helps in building future-proof user interfaces.](https://defensivecss.dev/)
+
+
 ## Web development: Bootstrap
 * [Powerful UI tools built with Bootstrap](https://github.com/StartBootstrap)
+
+
 # User Interface
 * [Why you probably shouldn't put forms in modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/) -> NOTE: I only use modals to inform the user, to confirm their actions or to choose values.
 * [How i experience web today](https://how-i-experience-web-today.com)
+
+
 ## Web development: Javascript
 ### Javascript: Links 
 * [CLASSIC INITIAL: MDN: A re-introduction to JavaScript (JS tutorial) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
