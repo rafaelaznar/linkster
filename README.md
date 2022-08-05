@@ -214,6 +214,7 @@ https://rafaelaznar.github.io/roadmaps
 * [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 * https://github.com/hemanth/functional-programming-jargon
 * [Double arrow vs currying & partial applications](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
+* [ES6 Functional Programming: cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
 ## Javascript: RxJs
 * https://rxjs.dev/
 * https://www.learnrxjs.io/
