@@ -79,6 +79,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Design: OOP: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://www.patterns.dev/posts/classic-design-patterns/)
 * [Paradigms: AOP: What is aspect-oriented programming?](https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming)
 * [Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
+* [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md)
 
 ## Algorithms & Complexity
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
@@ -112,6 +113,7 @@ https://rafaelaznar.github.io/roadmaps
 * [GIT github](https://docs.github.com/es)
 * [GIT book](https://git-scm.com/book/en/v2)
 
+
 ## Methodologies for teams
 * [Methodologies: #1 8 Software Development Models: Sliced, Diced and Organized in Charts](https://www.scnsoft.com/blog/software-development-models)
 * [Methodologies: Scrum vs Waterfall vs Agile vs Lean vs Kanban](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
@@ -126,6 +128,7 @@ https://rafaelaznar.github.io/roadmaps
  * [W3C: MDN Cross-Origin Resource Sharing (CORS)](https://www.w3.org/wiki/CORS_Enabled)
 
 ## HTML 5
+* [DIVE INTO HTML5 BY MARK PILGRIM](http://diveintohtml5.info/index.html)
 * [Markup: HTML tutorial](https://www.tutorialrepublic.com/html-tutorial/)
 * [Markup: HTML: HyperText Markup Language](https://devdocs.io/html/)
 * [Markup: HTML5 Boilerplate wikipedia](https://en.wikipedia.org/wiki/HTML5_Boilerplate)
@@ -145,6 +148,7 @@ https://rafaelaznar.github.io/roadmaps
 ## User Interface
 * [Why you probably shouldn't put forms in modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/) -> NOTE: I only use modals to inform the user, to confirm their actions or to choose values.
 * [How i experience web today](https://how-i-experience-web-today.com)
+* [ADAPTIVE WEB DESIGN Crafting Rich Experiences with Progressive Enhancement by Aaron Gustafson](https://adaptivewebdesign.info/1st-edition/read/)
 
 
 ## Javascript
