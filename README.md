@@ -120,7 +120,6 @@ https://rafaelaznar.github.io/roadmaps
 ## HTML 5
 * [Markup: HTML tutorial](https://www.tutorialrepublic.com/html-tutorial/)
 * [Markup: HTML: HyperText Markup Language](https://devdocs.io/html/)
-
 * [Markup: HTML5 Boilerplate wikipedia](https://en.wikipedia.org/wiki/HTML5_Boilerplate)
 * [Markup: HTML5 Boilerplate](https://html5boilerplate.com/)
 * [Markup: HTML5 Boilerplate initializr](http://www.initializr.com/)
