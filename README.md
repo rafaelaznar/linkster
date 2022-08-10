@@ -56,12 +56,14 @@ https://rafaelaznar.github.io/roadmaps
 ## Foundations
 * [Foundations: The Internet from Rocks — A High Level Explanation of Computers and the Internet, by Julian ](https://julian.bearblog.dev/the-internet-from-rocks/)
 * [Foundations: Languages, complexity, algorithms, data structures](https://github.com/b7leung/MLE-Flashcards/blob/main/1%20Computer%20Science.pdf)
+
 ## History
 * [The History of the Browser Wars: When Netscape Met Microsoft](https://thehistoryoftheweb.com/browser-wars/)
 * [THE HISTORY OF USER INTERFACES](https://history.user-interface.io/)
 
 
-## Software design, Paradigms, Programming principles
+
+## Develop: Software design, Paradigms, Programming principles
 * [Design: Paradigms: OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
 * [Design: Paradigms: OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
 * [Design: Paradigms: OOP: The Four Pillars of Object Oriented Programming](https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming)
@@ -82,32 +84,39 @@ https://rafaelaznar.github.io/roadmaps
 * [Design: Paradigms: AOP: What is aspect-oriented programming?](https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming)
 * [Design: Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
 * [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
-## Functional programming
-* [FP: ES5: ES6: You don't (may not) need Lodash / Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
-* [Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
-## Algorithms & Complexity
+## Develop: Algorithms & Complexity
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
 * [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-## Programming Languages
+## Develop: Programming Languages
 * [Top 8 Most Demanded Programming Languages in 2022](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
 * [Programming Languages: stackoverflow developer survey: In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want](https://survey.stackoverflow.co/2022/)
 * [Six Programming Languages I'd Like to See](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
-## Architecture, systems design
+## Architecture, systems design, software engineering
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-## Software engineering
 * [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
 ## Code styling, Comments & Documentation 
 * [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 * [How to Comment Your Code](https://matt-rickard.com/how-to-comment-your-code)
 * [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-## GIT
+## Developing: Functional programming
+* [FP: ES5: ES6: You don't (may not) need Lodash / Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+* [Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
+## Tools: GIT
 * [GIT wikipedia](https://en.wikipedia.org/wiki/Git)
 * [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * [GIT tutorial](https://www.atlassian.com/git/tutorials)
 * [GIT guide](https://rogerdudler.github.io/git-guide/)
 * [GIT github](https://docs.github.com/es)
 * [GIT book](https://git-scm.com/book/en/v2)
+## Developing: Methodologies for teams
+* [Scrum vs Waterfall vs Agile vs Lean vs Kanban](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
+* [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+* [What is Agile Model? – Agile vs Waterfall vs Spiral.](https://digitalvarys.com/agile-vs-waterfall-vs-spiral/)
+* [WHAT IS SCRUM?](https://www.scrum.org/resources/what-is-scrum)
+
+
+
 ## Web development: CORS
  * [MDN: Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
  * [W3C: MDN Cross-Origin Resource Sharing (CORS)](https://www.w3.org/wiki/CORS_Enabled)
