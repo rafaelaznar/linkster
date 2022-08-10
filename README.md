@@ -9,17 +9,14 @@ https://rafaelaznar.github.io/roadmaps
 ## News
 * [Hacker news](https://news.ycombinator.com/)
 * [Reddit programming News](https://old.reddit.com/r/programming/)
-
 * [DZone News](https://dzone.com/)
 * [dev News](https://dev.to/t/news)
 * [infoworld News](https://www.infoworld.com/category/application-development/)
 * [wired News](https://www.wired.com/tag/programming/)
 * [hackernoon News](https://hackernoon.com/)
 * [hackernoon News on web development](https://hackernoon.com/tagged/software-development)
-
 * [web development hashnode News](https://hashnode.com/n/web-development)
 * [web development smashingmagazine News](https://www.smashingmagazine.com/category/web-design/)
-
 * [Javascript javascriptweekly News](https://javascriptweekly.com/)
 * [Javascript infoworld News](https://www.infoworld.com/category/javascript/)
 * [Javascript smashingmagazine News](https://www.smashingmagazine.com/category/javascript/)
@@ -33,20 +30,16 @@ https://rafaelaznar.github.io/roadmaps
 * [Javascript plainenglish News](https://javascript.plainenglish.io/)
 * [Javascript alligator News](https://alligator.io/js/)
 * [Javascript javascriptkicks News](https://javascriptkicks.com/)
-
 * [Typescript smashingmagazine News](https://www.smashingmagazine.com/category/typescript)
-
 * [React hackernoon News](https://hackernoon.com/tagged/react)
 * [React smashingmagazine News](https://www.smashingmagazine.com/category/react)
 * [React hashnode News](https://hashnode.com/n/reactjs)
 * [React alligator News](https://alligator.io/react/)
-
 * [Angular blog News](https://blog.angular.io/)
 * [Angular alligator News](https://alligator.io/angular/)
 * [Angular smashingmagazine News](https://www.smashingmagazine.com/category/angular)
 * [Vue alligator News](https://alligator.io/vuejs/)
 * [Vue smashingmagazine News](https://www.smashingmagazine.com/category/vue/)
-
 * [Java dzone News](https://dzone.com/java-jdk-development-tutorials-tools-news)
 * [Java infoworld News](https://www.infoworld.com/category/java/)
 * [Java infoq News](https://www.infoq.com/java/)
