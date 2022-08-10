@@ -59,6 +59,8 @@ https://rafaelaznar.github.io/roadmaps
 ## History
 * [The History of the Browser Wars: When Netscape Met Microsoft](https://thehistoryoftheweb.com/browser-wars/)
 * [THE HISTORY OF USER INTERFACES](https://history.user-interface.io/)
+
+
 ## Software design, Paradigms, Programming principles
 * [Design: Paradigms: OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
 * [Design: Paradigms: OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
@@ -324,6 +326,9 @@ https://rafaelaznar.github.io/roadmaps
 * [Markdown online editor stackedit](https://stackedit.io/)
 * [Markdown online editor pandao](https://pandao.github.io/editor.md/en.html)
 * [Casual-Markdown-Doc provide a quick solution to use markdown as document.](https://github.com/casualwriter/casual-markdown-doc)
+
+## Infraestructure, deployment
+* [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
 
 ## Didactics
 * [10 Lessons of an MIT Education by Gian-Carlo Rota](https://www.math.tamu.edu/~cyan/Rota/mitless.html)
