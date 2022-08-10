@@ -56,12 +56,9 @@ https://rafaelaznar.github.io/roadmaps
 * [The History of the Browser Wars: When Netscape Met Microsoft](https://thehistoryoftheweb.com/browser-wars/)
 * [THE HISTORY OF USER INTERFACES](https://history.user-interface.io/)
 
-# Software deveopment
+# Software engineering & Software development
 
-## Software design, Paradigms, Programming principles
-* [OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
-* [OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
-* [OOP: The Four Pillars of Object Oriented Programming](https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming)
+## Programming principles, Software design, Paradigms
 * [Principles: SOLID principles](https://en.wikipedia.org/wiki/SOLID)
 * [Principles: SOLID: The SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 * [Principles: SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
@@ -73,30 +70,40 @@ https://rafaelaznar.github.io/roadmaps
 * [Principles: YAGNI: You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 * [Principles: YAGNI by Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
 * [Principles: YAGNI Principle in 100 seconds](https://dev.to/richardwynn/yagni-principle-in-100-seconds-1i6j)
+* [Principles: My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
+* [OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
+* [OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
+* [OOP: The Four Pillars of Object Oriented Programming](https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming)
 * [OOP: Design: Design_Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 * [#1 OOP: Design: Design_Patterns: The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [Design: OOP: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://www.patterns.dev/posts/classic-design-patterns/)
 * [Paradigms: AOP: What is aspect-oriented programming?](https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming)
 * [Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
-* [Principles: My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
-## Develop: Algorithms & Complexity
+
+## Algorithms & Complexity
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
 * [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-## Develop: Programming Languages
+
+## Programming Languages
 * [Top 8 Most Demanded Programming Languages in 2022](https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/)
 * [Programming Languages: stackoverflow developer survey: In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want](https://survey.stackoverflow.co/2022/)
 * [Six Programming Languages I'd Like to See](https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/)
-## Architecture, systems design, software engineering
+
+## Architecture, systems design
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
+* [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
+
 ## Code styling, Comments & Documentation 
 * [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
 * [How to Comment Your Code](https://matt-rickard.com/how-to-comment-your-code)
 * [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-## Developing: Functional programming
+
+## Functional programming
 * [FP: ES5: ES6: You don't (may not) need Lodash / Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 * [Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
+
 ## Tools: GIT
 * [GIT wikipedia](https://en.wikipedia.org/wiki/Git)
 * [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -104,6 +111,7 @@ https://rafaelaznar.github.io/roadmaps
 * [GIT guide](https://rogerdudler.github.io/git-guide/)
 * [GIT github](https://docs.github.com/es)
 * [GIT book](https://git-scm.com/book/en/v2)
+
 ## Methodologies for teams
 * [Methodologies: #1 8 Software Development Models: Sliced, Diced and Organized in Charts](https://www.scnsoft.com/blog/software-development-models)
 * [Methodologies: Scrum vs Waterfall vs Agile vs Lean vs Kanban](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
