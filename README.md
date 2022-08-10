@@ -256,6 +256,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Database SQL against CSV: ](https://github.com/dinedal/textql)
 * [Database SQL against FILE TREE: ](https://github.com/kashav/fsql)
 * [Database SQL against GITHUB]( https://app.mergestat.com/w/public)
+* [Wikidata: Query Wikipedia](https://query.wikidata.org/)
 
 ## API layers
 * [Database API layers: supabase](https://supabase.com/)
