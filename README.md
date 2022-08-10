@@ -4,6 +4,8 @@
 
 https://rafaelaznar.github.io/roadmaps
 
+# Introduction
+
 ## News
 * [Hacker news](https://news.ycombinator.com/)
 * [Reddit programming News](https://old.reddit.com/r/programming/)
@@ -61,29 +63,29 @@ https://rafaelaznar.github.io/roadmaps
 * [The History of the Browser Wars: When Netscape Met Microsoft](https://thehistoryoftheweb.com/browser-wars/)
 * [THE HISTORY OF USER INTERFACES](https://history.user-interface.io/)
 
+# Software deveopment
 
-
-## Develop: Software design, Paradigms, Programming principles
-* [Design: Paradigms: OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
-* [Design: Paradigms: OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
-* [Design: Paradigms: OOP: The Four Pillars of Object Oriented Programming](https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming)
-* [Design: Paradigms: Programming Principles: SOLID principles](https://en.wikipedia.org/wiki/SOLID)
-* [Design: Paradigms: Programming Principles: SOLID: The SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-* [Design: Paradigms: Programming Principles: SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-* [Design: Paradigms: Programming Principles: KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
-* [Design: Paradigms: Programming Principles: DRY principle: Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Design: Paradigms: Programming Principles: AHA: The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-* [Design: Paradigms: Programming Principles: AHA Programming](https://kentcdodds.com/blog/aha-programming)
-* [Design: Paradigms: Programming Principles: AHA Programming vs Single Responsibility Principle](https://dev.to/andreacanton/aha-programming-vs-single-responsibility-principle-4go)
-* [Design: Paradigms: Programming Principles: YAGNI: You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
-* [Design: Paradigms: Programming Principles: YAGNI by Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
-* [Design: Paradigms: Programming Principles: YAGNI Principle in 100 seconds](https://dev.to/richardwynn/yagni-principle-in-100-seconds-1i6j)
-* [Design: Design_Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
-* [#1 Design: Design_Patterns: The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-* [Design: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://www.patterns.dev/posts/classic-design-patterns/)
-* [Design: Paradigms: AOP: What is aspect-oriented programming?](https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming)
-* [Design: Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
-* [My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
+## Software design, Paradigms, Programming principles
+* [OOP: Principles of Data-Oriented Programming](https://blog.klipse.tech/dop/2022/06/22/principles-of-dop.html)
+* [OOP: The four basic principles of Object Oriented Programming](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
+* [OOP: The Four Pillars of Object Oriented Programming](https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming)
+* [Principles: SOLID principles](https://en.wikipedia.org/wiki/SOLID)
+* [Principles: SOLID: The SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+* [Principles: SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [Principles: KISS principle](https://en.wikipedia.org/wiki/KISS_principle)
+* [Principles: DRY principle: Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Principles: AHA: The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [Principles: AHA Programming](https://kentcdodds.com/blog/aha-programming)
+* [Principles: AHA Programming vs Single Responsibility Principle](https://dev.to/andreacanton/aha-programming-vs-single-responsibility-principle-4go)
+* [Principles: YAGNI: You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+* [Principles: YAGNI by Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
+* [Principles: YAGNI Principle in 100 seconds](https://dev.to/richardwynn/yagni-principle-in-100-seconds-1i6j)
+* [OOP: Design: Design_Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+* [#1 OOP: Design: Design_Patterns: The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+* [Design: OOP: Learning JavaScript Design Patterns: The classic JavaScript design patterns book, updated to ES2015+ syntax.](https://www.patterns.dev/posts/classic-design-patterns/)
+* [Paradigms: AOP: What is aspect-oriented programming?](https://stackoverflow.com/questions/242177/what-is-aspect-oriented-programming)
+* [Paradigms: AOP: An Introduction to Aspect-Oriented Programming](https://saigontechnology.com/blog/an-introduction-to-aspect-oriented-programming)
+* [Principles: My guiding principles after 20 years of programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 ## Develop: Algorithms & Complexity
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
 * [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
@@ -109,19 +111,19 @@ https://rafaelaznar.github.io/roadmaps
 * [GIT guide](https://rogerdudler.github.io/git-guide/)
 * [GIT github](https://docs.github.com/es)
 * [GIT book](https://git-scm.com/book/en/v2)
-## Developing: Methodologies for teams
-* [Scrum vs Waterfall vs Agile vs Lean vs Kanban](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
-* [Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
-* [What is Agile Model? – Agile vs Waterfall vs Spiral.](https://digitalvarys.com/agile-vs-waterfall-vs-spiral/)
-* [WHAT IS SCRUM?](https://www.scrum.org/resources/what-is-scrum)
+## Methodologies for teams
+* [Methodologies: Scrum vs Waterfall vs Agile vs Lean vs Kanban](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
+* [Methodologies: Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
+* [Methodologies: What is Agile Model? – Agile vs Waterfall vs Spiral.](https://digitalvarys.com/agile-vs-waterfall-vs-spiral/)
+* [Methodologies: WHAT IS SCRUM?](https://www.scrum.org/resources/what-is-scrum)
 
+# Web development
 
-
-## Web development: CORS
+## CORS
  * [MDN: Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
  * [W3C: MDN Cross-Origin Resource Sharing (CORS)](https://www.w3.org/wiki/CORS_Enabled)
 
-## Web development: HTML 5
+## HTML 5
 * [Markup: HTML tutorial](https://www.tutorialrepublic.com/html-tutorial/)
 * [Markup: HTML: HyperText Markup Language](https://devdocs.io/html/)
 
@@ -131,11 +133,11 @@ https://rafaelaznar.github.io/roadmaps
 * [Markup: HTML5 Boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
 
 
-## Web development: CSS
+## CSS
 * [Practical CSS and design tips that helps in building future-proof user interfaces.](https://defensivecss.dev/)
 
 
-## Web development: Bootstrap
+## Bootstrap
 * [Powerful UI tools built with Bootstrap](https://github.com/StartBootstrap)
 
 
@@ -144,16 +146,16 @@ https://rafaelaznar.github.io/roadmaps
 * [How i experience web today](https://how-i-experience-web-today.com)
 
 
-## Web development: Javascript
+## Javascript
 ### Javascript: Links 
 * [CLASSIC INITIAL: MDN: A re-introduction to JavaScript (JS tutorial) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-* [CLASSIC INITIAL: Learn X in Y minutes; Where X=javascript ](https://learnxinyminutes.com/docs/javascript/)
+* [CLASSIC INITIAL: Learn X in Y minutes; Where X = javascript ](https://learnxinyminutes.com/docs/javascript/)
 * [CLASSIC AND MODERN INITIAL: A Dive Into Plain JavaScript ](https://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
 * [MODERN FROM INITIAL TO ADVANCED: The Modern JavaScript Tutorial from javascript.info](https://javascript.info/)
 * [#5 CLASSIC ADVANCED: JavaScript Garden (highly recommended) ](https://bonsaiden.github.io/JavaScript-Garden/)
 * [CLASSIC ADVANCED: Learning Advanced JavaScript](https://johnresig.com/apps/learn/)
 * [CLASSIC MEDIUM: An introduction for new programmers (simple, basic)](http://jsforcats.com/)
-* [CLASSIC ADVANCED: wtfjs (oodities)](https://wtfjs.com/)
+* [CLASSIC ADVANCED: wtfjs ( oodities of javascript )](https://wtfjs.com/)
 * [MODERN ADVANCED:  a guide to producing readable, reusable, and refactorable software in JavaScript.](https://github.com/ryanmcdermott/clean-code-javascript)
 * [MODERN: You might not need jQuery](https://youmightnotneedjquery.com/)
 * [MODERN: Manual de ES6](https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html)
@@ -319,6 +321,10 @@ https://rafaelaznar.github.io/roadmaps
 ## Web development: APIs
 * [Web development: APIs: swagger](https://swagger.io/)
 
+## Infraestructure, deployment
+* [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
+
+# Useful stuff
 
 ## Markdown
 * [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown)
@@ -335,9 +341,6 @@ https://rafaelaznar.github.io/roadmaps
 * [Markdown online editor stackedit](https://stackedit.io/)
 * [Markdown online editor pandao](https://pandao.github.io/editor.md/en.html)
 * [Casual-Markdown-Doc provide a quick solution to use markdown as document.](https://github.com/casualwriter/casual-markdown-doc)
-
-## Infraestructure, deployment
-* [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
 
 ## Didactics
 * [10 Lessons of an MIT Education by Gian-Carlo Rota](https://www.math.tamu.edu/~cyan/Rota/mitless.html)
