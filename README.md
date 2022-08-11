@@ -306,6 +306,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 * [Revisiting Java in 2021 - I: ](https://www.avanwyk.com/revisiting-java-in-2021-i/)
 * [Revisiting Java in 2021 - II:]( https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+* [Lambda: A Peek Under The Hood - Brian Goetz](https://www.slideshare.net/jaxlondon2012/lambda-a-peek-under-the-hood-brian-goetz)
 
 ## Spring framework
 * [Spring Home:]( https://spring.io/)
