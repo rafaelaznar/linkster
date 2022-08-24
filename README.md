@@ -354,6 +354,7 @@ https://rafaelaznar.github.io/roadmaps
 * [10 Lessons of an MIT Education by Gian-Carlo Rota](https://www.math.tamu.edu/~cyan/Rota/mitless.html)
 
 ## Geek Links
+* [Creating Shazam in Java](https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/)
 * [eBook: Why does anything exist?](https://alwaysasking.com/why-does-anything-exist/)
 * [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
 * [A curated list of papers that may be of interest to Software Engineering students or professionals.](https://github.com/facundoolano/software-papers/)
