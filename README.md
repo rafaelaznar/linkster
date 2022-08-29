@@ -48,6 +48,10 @@ https://rafaelaznar.github.io/roadmaps
 * [Java reddit News](https://www.reddit.com/r/java/)
 * [Java newsnow News](https://www.newsnow.co.uk/h/Industry+Sectors/IT/Computer+Technology/Software/Java)
 
+## Books - General
+
+* [List of Free Learning Resources In Many Language. Free programming books](https://github.com/EbookFoundation/free-programming-books)
+
 ## Foundations
 * [Foundations: The Internet from Rocks — A High Level Explanation of Computers and the Internet, by Julian ](https://julian.bearblog.dev/the-internet-from-rocks/)
 * [Foundations: Languages, complexity, algorithms, data structures](https://github.com/b7leung/MLE-Flashcards/blob/main/1%20Computer%20Science.pdf)
