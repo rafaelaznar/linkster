@@ -88,6 +88,7 @@ https://rafaelaznar.github.io/roadmaps
 * [97 Things Every Programmer Should Know](https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md)
 
 ## Algorithms & Complexity
+* [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 * [Complexity: The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
 * [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 
