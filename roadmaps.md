@@ -5,17 +5,26 @@
 * Internet (creation, concept, operation)
    * Protocol (concept, types, RFC)
    * ISO-OSI levels
-   * HTTP protocol
-     * concept, utility, characteristics,
-     * structure of an HTTP request and response packet,
-     * HTTP methods and their utility
-   * The process of loading a web page
    * TCP (concept, utility, well-known ports, structure of TCP segments, sockets)
    * IP (concept, utility, IP addresses, routing, structure of IP datagrams)
-   * URL (concept, structure, parameters)
    * Client-server applications vs P2P
-   * What is a cookie and what is it for? How can we establish a session using cookies? where does the cookie travel within the HTTP packet?
+   * HTTP protocol
+     * concept, utility, characteristics, requests and responses
+     * HTTP is a stateless protocol
+     * structure of an HTTP request and response packet
+     * HTTP methods and their utility
+     * HTTP response codes
+     * URL (concept, structure, parameters)  
+   * The process of loading a web page
    * What are MIME types and what are they for?
+   * Web sessions
+     * Cookies
+       * What is a cookie and what is it for? 
+       * How can we establish a session using cookies? 
+       * where does the cookie travel within the HTTP packet?
+     * Tokens: JWT (JSON Web Tokens)
+     * Oauth
+
 
 ## Web Projects
 
