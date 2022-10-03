@@ -43,7 +43,10 @@
      * TDD: Test Driven Development
    * Program documentation (concept, types, tools)
    * Deployment in production and in test. Automated deployment. Cloud deployment.
-   * Containers
+   * Containers.
+     * Docker
+     * Docker compose
+     * Orchestration
    * Version managers (concept, tools and features)
    * Code repository (types, tools)
    * Software quality assessment (concept, available tools)
@@ -51,7 +54,7 @@
 ## Infrastructure
 
    * IDES:
-     * Java: NetBeans, Eclipse, IntelliJ
+     * Java: NetBeans, Eclipse, IntelliJ, VSC
      * Javascript: Visual Studio Code, Sublime, Atom, webstorm
    * Browsers:
      * Chrome, Firefox, Edge, Safari, Opera...
@@ -80,18 +83,14 @@
     * BEM
   * Regular expressions.
     * Concept
-    * cheet sheets
+    * Cheet sheets
     * Links to learn regular expressions
     * Links to online tools to build and validate regular expressions
   * JSON:
     * Concept
-    * cheet sheets
+    * Cheet sheets
     * Online parser
-    * Java JSON converter libraries;
-      * Google Gson
-      *jackson
-      * json-plain
-      *
+    * Java JSON converter libraries: Google Gson, Jackson, Moshi...     
   * CDN
   * AJAX
   * Static pages vs dynamic pages
