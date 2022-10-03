@@ -195,7 +195,6 @@
   * Progressive Web Apps de google
   * Generadores de código: Plataformas fullstack: JHipster
   * Mockups Tools: figma & Adobe XD
-  * Manejo de la asincronía con 
   * Javascript
     * Concepto de Javascript no obstrusivo
     * Arrays
@@ -215,6 +214,11 @@
       * https://hammerjs.github.io/
       * https://animate.style/
       * https://revealjs.com/
+  * Manejo de la asincronía en entorno cliente
+    * Callbacks
+    * Promises
+    * Async / Await methods
+    * RxJS -> funcional reactive programming 
 
 ## Entorno servidor 
   * Lenguajes: nodejs, Java, PHP, Phyton, Ruby, Perl, Go, Rust, Elixir, Erlang, Haskell, Clojure
