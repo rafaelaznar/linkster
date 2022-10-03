@@ -195,6 +195,7 @@
   * Progressive Web Apps de google
   * Generadores de código: Plataformas fullstack: JHipster
   * Mockups Tools: figma & Adobe XD
+  * Manejo de la asincronía con 
   * Javascript
     * Concepto de Javascript no obstrusivo
     * Arrays
@@ -299,7 +300,7 @@
     * github
     * bitbucket
     * gitlab
-==== Integración continua ====
+### Integración continua
   * Pruebas unitarias:
     * junit
     * phpunit
@@ -309,7 +310,7 @@
   * Servidores: Jenkins, Travis CI, TeamCity, CircleCI
   * Issue tracking: Jira, backlog, trac. Redmine, mantis
   * Teconologías para la inspección y la mejora del código: codeclimate, sonarqube,
-==== Despliegue ====
+### Despliegue
   * Microservicios y Message Brokers: RabbitMQ, Kafka, Redis, SQS
   * Monitorización: new relic, datadog, dynatrace ...
   * Infraestructura:
