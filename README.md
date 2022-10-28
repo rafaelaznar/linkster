@@ -245,6 +245,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Double arrow vs currying & partial applications](https://stackoverflow.com/questions/32782922/what-do-multiple-arrow-functions-mean-in-javascript)
 * [ES6 Functional Programming: cheatsheet](https://blog.cloudboost.io/es6-function-programming-cheatsheet-update-spread-note-example-tutorial-26f265b0ddf1)
 * [Intro to ES6 and Functional programming in JavaScript](https://medium.com/@lizfaria/intro-to-es6-and-functional-programming-in-javascript-4bf25b7b8e63)
+* [WHY FUNCTIONAL PROGRAMMING SHOULD BE THE FUTURE OF SOFTWARE DEVELOPMENT](https://spectrum.ieee.org/functional-programming#toggle-gdpr)
 ## Javascript: RxJs
 * https://rxjs.dev/
 * https://www.learnrxjs.io/
