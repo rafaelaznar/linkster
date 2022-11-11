@@ -320,6 +320,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Revisiting Java in 2021 - I: ](https://www.avanwyk.com/revisiting-java-in-2021-i/)
 * [Revisiting Java in 2021 - II:]( https://www.avanwyk.com/revisiting-java-in-2021-ii/)
 * [Lambda: A Peek Under The Hood - Brian Goetz](https://www.slideshare.net/jaxlondon2012/lambda-a-peek-under-the-hood-brian-goetz)
+* [Why Does Nobody Want to Learn Java in 2022? Java has its fans, but also its critics. Here are some of the reasons more and more developers may be avoiding the language.](https://www.makeuseof.com/java-nobody-want-learn-2022/)
 
 ## Servlets
 * [Digitalocean Servlet JSP Tutorial](https://www.digitalocean.com/community/tutorials/servlet-jsp-tutorial)
