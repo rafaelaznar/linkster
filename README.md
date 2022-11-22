@@ -394,6 +394,7 @@ https://rafaelaznar.github.io/roadmaps
 * [The Project KeePassXC]( https://keepassxc.org/project/)
 * [Open Source Alternative to... Discover 300+ popular open source alternatives to your proprietary SaaS](https://www.opensourcealternative.to/?category=Database)
 * [THE BASIC LAWS OF HUMAN STUPIDITY By Carlo M. Cipolla](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/)
+* [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 
 
 ## LISP
