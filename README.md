@@ -399,6 +399,7 @@ https://rafaelaznar.github.io/roadmaps
 * [THE BASIC LAWS OF HUMAN STUPIDITY By Carlo M. Cipolla](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/)
 * [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [The need to read](http://paulgraham.com/read.html)
+* [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
 
 
 ## LISP
