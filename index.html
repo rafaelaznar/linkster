@@ -60,9 +60,9 @@
                 'must', 'about', 'first', 'with', 'what', 'need'];
             let terms = [];
             let links = [];
-            let loadtemplate = function () {
+            let loadtemplate = function (filename) {
 
-                fetch("README.md").then(function (response) {
+                fetch(filename).then(function (response) {
                     return response.text();
                 }).then(function (code) {
 
@@ -192,7 +192,7 @@
                     event.preventDefault();
                 });
             });
-            loadtemplate();
+            loadtemplate("README.md");
             document.getElementById('clear').addEventListener('click', function (event) {
                 terms.forEach(l => l.s = false);
                 refreshTags();
