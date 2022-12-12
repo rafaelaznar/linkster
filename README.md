@@ -5,7 +5,7 @@
 https://rafaelaznar.github.io/roadmaps
 
 # Introduction
-
+* [News](news.md)
 
 ## Books - General
 
