@@ -326,6 +326,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Why Does Nobody Want to Learn Java in 2022? Java has its fans, but also its critics. Here are some of the reasons more and more developers may be avoiding the language.](https://www.makeuseof.com/java-nobody-want-learn-2022/)
 * [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial#default-methods-for-interfaces)
 * [Java 11 tutorial](https://winterbe.com/posts/2018/09/24/java-11-tutorial/)
+* [Java 8 stream tutorial](https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/)
 
 ## Servlets
 * [Digitalocean Servlet JSP Tutorial](https://www.digitalocean.com/community/tutorials/servlet-jsp-tutorial)
