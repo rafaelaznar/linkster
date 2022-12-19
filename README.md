@@ -356,6 +356,7 @@ https://rafaelaznar.github.io/roadmaps
 * [EPIGRAMS IN PROGRAMMING](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [The need to read](http://paulgraham.com/read.html)
 * [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
+* [Digitally sign PDF files from your commandline](https://github.com/open-pdf-sign/open-pdf-sign)
 
 
 ## LISP
