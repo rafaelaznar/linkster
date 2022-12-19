@@ -7,14 +7,8 @@ https://rafaelaznar.github.io/roadmaps
 # Introduction
 * [News](news.md)
 * [Foundations](foundations.md)
-
-## Books - General
-* [List of Free Learning Resources In Many Language. Free programming books](https://github.com/EbookFoundation/free-programming-books)
-
-## History
-* [The History of the Browser Wars: When Netscape Met Microsoft](https://thehistoryoftheweb.com/browser-wars/)
-* [THE HISTORY OF USER INTERFACES](https://history.user-interface.io/)
-
+* [Books](books.md)
+* [History](history.md)
 # Software engineering & Software development
 
 ## Programming principles, Software design, Paradigms
