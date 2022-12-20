@@ -13,40 +13,11 @@ https://rafaelaznar.github.io/roadmaps
 * [Programming principles, Software design, Paradigms](principles.md)
 * [Algorithms & Complexity](algorithms.md)
 * [Programming Languages](languages.md)
-
-## Architecture, systems design
-* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-* [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/)
-* [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/)
-
-## Code styling, Comments & Documentation 
-* [Write documentation first. Then build](https://reproof.app/blog/document-first-then-build)
-* [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
-* [How to Comment Your Code](https://matt-rickard.com/how-to-comment-your-code)
-* [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming))
-
-## Functional programming
-* [Functional Reactive Programming Blackheath and Anthony Jones](https://www.manning.com/books/functional-reactive-programming)
-* [Functional Programming Resources](https://wildlyinaccurate.com/functional-programming-resources/)
-* [FP: ES5: ES6: You don't (may not) need Lodash / Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
-* [Design: Paradigms: FP: My other database is a compiler. About optimizing functional compilers to access data eficiently. Functional access to data can be used to acess to in memory big data, but they must be efficient! Funcional programming is very similar to SQL programming, both are declarative paradigms. Compilares must have a look to the database tecnology to spped access to data.](https://blog.chiselstrike.com/my-other-database-is-a-compiler-10fd527a4d78)
-* [A simple FP architecture. How do I build a production application in a functional language?](https://devonburriss.me/fp-architecture/)
-
-## Tools: GIT
-* [GIT wikipedia](https://en.wikipedia.org/wiki/Git)
-* [GIT cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
-* [GIT tutorial](https://www.atlassian.com/git/tutorials)
-* [GIT guide](https://rogerdudler.github.io/git-guide/)
-* [GIT github](https://docs.github.com/es)
-* [GIT book](https://git-scm.com/book/en/v2)
-
-
-## Methodologies for teams
-* [Methodologies: #1 8 Software Development Models: Sliced, Diced and Organized in Charts](https://www.scnsoft.com/blog/software-development-models)
-* [Methodologies: Scrum vs Waterfall vs Agile vs Lean vs Kanban](https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/)
-* [Methodologies: Agile vs. Waterfall vs. Kanban vs. Scrum: What’s the Difference?](https://www.lucidchart.com/blog/agile-vs-waterfall-vs-kanban-vs-scrum)
-* [Methodologies: What is Agile Model? – Agile vs Waterfall vs Spiral.](https://digitalvarys.com/agile-vs-waterfall-vs-spiral/)
-* [Methodologies: WHAT IS SCRUM?](https://www.scrum.org/resources/what-is-scrum)
+* [Architecture, systems design](architecture.md)
+* [Code styling, Comments & Documentation](documentation.md)
+* [Functional programming](fp.md)
+* [GIT & GitHub](git.md)
+* [Methodologies for teams](teams.md)
 
 # Web development
 
