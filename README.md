@@ -9,6 +9,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Foundations](foundations.md)
 * [Books](books.md)
 * [History](history.md)
+
 # Software engineering & Software development
 * [Programming principles, Software design, Paradigms](principles.md)
 * [Algorithms & Complexity](algorithms.md)
@@ -19,38 +20,14 @@ https://rafaelaznar.github.io/roadmaps
 * [GIT & GitHub](git.md)
 * [Methodologies for teams](teams.md)
 
-# Web development
+# Web design & development
+* [CORS](cors.md)
+* [HTML5](html5.md)
+* [CSS](css.md)
+* [Bootstrap](bootstrap.md)
+* [UI](ui.md)
+* [JSON](json.md)
 
-## CORS
- * [MDN: Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
- * [W3C: MDN Cross-Origin Resource Sharing (CORS)](https://www.w3.org/wiki/CORS_Enabled)
-
-## HTML 5
-* [DIVE INTO HTML5 BY MARK PILGRIM](http://diveintohtml5.info/index.html)
-* [Markup: HTML tutorial](https://www.tutorialrepublic.com/html-tutorial/)
-* [Markup: HTML: HyperText Markup Language](https://devdocs.io/html/)
-* [Markup: HTML5 Boilerplate wikipedia](https://en.wikipedia.org/wiki/HTML5_Boilerplate)
-* [Markup: HTML5 Boilerplate](https://html5boilerplate.com/)
-* [Markup: HTML5 Boilerplate initializr](http://www.initializr.com/)
-* [Markup: HTML5 Boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
-
-
-## CSS
-* [Practical CSS and design tips that helps in building future-proof user interfaces.](https://defensivecss.dev/)
-* [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-
-
-## Bootstrap
-* [Powerful UI tools built with Bootstrap](https://github.com/StartBootstrap)
-
-
-## User Interface
-* [Why you probably shouldn't put forms in modals](https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/) -> NOTE: I only use modals to inform the user, to confirm their actions or to choose values.
-* [How i experience web today](https://how-i-experience-web-today.com)
-* [ADAPTIVE WEB DESIGN Crafting Rich Experiences with Progressive Enhancement by Aaron Gustafson](https://adaptivewebdesign.info/1st-edition/read/)
-
-## JSON
-* [JSON Hero: Enhanced JSON structure visualization](https://jsonhero.io/)
 
 ## Javascript
 ### Javascript: Links 
