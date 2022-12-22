@@ -1,4 +1,4 @@
-## Database
+# Database
 * [Database SQL: SQL is 43 years old - here’s 8 reasons we still use it today.](https://blog.sqlizer.io/posts/sql-43/)
 * [Database What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/)
 * [Database SQL: A beginners guide to SQL](https://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
@@ -23,3 +23,18 @@
 * [Database SQL against FILE TREE: ](https://github.com/kashav/fsql)
 * [Database SQL against GITHUB]( https://app.mergestat.com/w/public)
 * [Wikidata: Query Wikipedia](https://query.wikidata.org/)
+
+## Database API
+* [Database API layers: supabase](https://supabase.com/)
+* [Database API layers: grsphql](https://graphql.org/)
+* [Database API layers: strapi](https://strapi.io/)
+* [Database tools: phpmyadmin](https://www.phpmyadmin.net/)
+* [Database tools: mysql workbench](https://www.mysql.com/products/workbench/)
+* [Database tools: dbeaver](https://dbeaver.io/)
+* [Database tools: liquibase](https://www.liquibase.org/)
+* [Database tools: falcon](https://github.com/plotly/falcon)
+* [Database tools: sqlfiddle](http://sqlfiddle.com/)
+* [Database ACID principles wikipedia](https://en.wikipedia.org/wiki/ACID)
+* [Database Stored triggers & procedures dilemma](https://brandur.org/fragments/code-database-vs-app)
+* [Top 5 Product and Management skills: SQL, Excel, Clear Communication, Story, Prioritization
+](https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/)
