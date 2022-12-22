@@ -28,36 +28,13 @@ https://rafaelaznar.github.io/roadmaps
 * [UI](ui.md)
 * [JSON](json.md)
 
-## Front-end
+# Front-end
 * [Javascript](javascript.md)
 * [Typescript](typescript.md)
 * [Angular](angular.md)
 
-## Database
-* [Database SQL: SQL is 43 years old - here’s 8 reasons we still use it today.](https://blog.sqlizer.io/posts/sql-43/)
-* [Database What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/)
-* [Database SQL: A beginners guide to SQL](https://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
-* [Database SQL: Best practices for writing SQL queries](https://www.metabase.com/learn/sql-questions/sql-best-practices)
-* [Database SQL: Medium-hard SQL interview questions](https://quip.com/2gwZArKuWk7W)
-* [Database SQL: SQL Visualizer](https://animatesql.com/)
-* [Database SQL: SQL interactive book](https://selectstarsql.com/)
-* [Database SQL: SQL Teaching](https://www.sqlteaching.com/)
-* [Database SQL: Modern SQL: with: Organize Complex Queries](https://modern-sql.com/feature/with)
-* [Database SQL: 10 SQL Tricks That You Didn’t Think Were Possible](https://blog.jooq.org/10-sql-tricks-that-you-didnt-think-were-possible/)
-* [Database SQL: Advanced SQL - window functions](https://mjk.space/advanced-sql-window-functions/)
-* [Database SQL: Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
-* [Database Security: SQL Injection Wiki](https://sqlwiki.netspi.com/)
-* [Database Security: Everything you wanted to know about SQL injection](https://www.troyhunt.com/everything-you-wanted-to-know-about-sql/)
-* [Database: MySQL](https://www.mysql.com/)
-* [Database: postgresql](https://www.postgresql.org/)
-* [Database CLOUD: firebase](https://firebase.google.com/)
-* [Database MYSQL + GIT](https://github.com/dolthub/dolt#dolt)
-* [Database MYSQL + GIT](https://www.dolthub.com/)
-* [Database CLOUD](https://neon.tech/early-access/)
-* [Database SQL against CSV: ](https://github.com/dinedal/textql)
-* [Database SQL against FILE TREE: ](https://github.com/kashav/fsql)
-* [Database SQL against GITHUB]( https://app.mergestat.com/w/public)
-* [Wikidata: Query Wikipedia](https://query.wikidata.org/)
+# Back-end
+* [Database](database.md)
 
 ## API layers
 * [Database API layers: supabase](https://supabase.com/)
