@@ -28,39 +28,10 @@ https://rafaelaznar.github.io/roadmaps
 * [UI](ui.md)
 * [JSON](json.md)
 
-
 ## Front-end
-* [Javascript](Javascript.md)
-
-### Typescript: links
-* https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
-* https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
-* https://www.typescriptlang.org/docs/
-* https://www.typescripttutorial.net/
-* [Beginners-TypeScript: 18 ineractive exercises for TypeScript beginners](https://github.com/total-typescript/beginners-typescript-tutorial)
-* [BOOK: basarat typescript](https://basarat.gitbook.io/typescript/)
-* https://github.com/melissarofman/typescript-book
-* https://github.com/microsoft/TypeScript/blob/main/doc/spec-ARCHIVED.md
-* https://www.tutorialspoint.com/typescript/index.htm
-* [Programming with the TypeScript type system](https://github.com/charleswaddell/show-and-tell-30-06-2022)
-
-## Javascript: RxJs
-* https://rxjs.dev/
-* https://www.learnrxjs.io/
-* https://angular.io/guide/rx-library
-* https://rxmarbles.com/
-* https://www.tutorialspoint.com/rxjs/index.htm
-
-## Angular
-* [Angular Website](https://angular.io/)
-* [Angular Wikipedia](https://en.wikipedia.org/wiki/Angular_(web_framework))
-* [AngularJS Youtube](https://www.youtube.com/user/angularjs)
-* [ng-conf Youtube](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
-* [Angular Architecture Overview](https://medium.com/@bhavikagarg8/angular-architecture-overview-1e7cc7483a0)
-* [Angular tutorial](https://www.vitainbeta.org/2022/06/19/angular-tutorial-and-posts/)
-* [A Complete Angular Course](https://witscad.com/course/complete-angular-tutorial)
-* [5 Angular CLI Features You Didn't Know About](https://blog.mgechev.com/2019/02/06/5-angular-cli-features/)
-
+* [Javascript](javascript.md)
+* [Typescript](typescript.md)
+* [Angular](angular.md)
 
 ## Database
 * [Database SQL: SQL is 43 years old - here’s 8 reasons we still use it today.](https://blog.sqlizer.io/posts/sql-43/)
@@ -152,6 +123,8 @@ https://rafaelaznar.github.io/roadmaps
 * [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
 # Useful stuff
+
+* [RxJs](rxjs.md)
 
 ## Compilers, automatas & formal languages.
 * [LL(1) Parser Visualization. Write your own context-free grammar and see an LL(1) parser in action.](https://www.cs.princeton.edu/courses/archive/spring20/cos320/LL1)
