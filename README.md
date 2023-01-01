@@ -38,17 +38,10 @@ https://rafaelaznar.github.io/roadmaps
 * [Java](java.md)
 * [Servlets](servlets.md)
 * [Spring framework](spring.md)
-
-
-## Web development: APIs
-* [Web development: APIs: swagger](https://swagger.io/)
-
-## Infraestructure, deployment
-* [Falling for Kubernetes](https://freeman.vc/notes/falling-for-kubernetes)
-* [Self Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+* [APIs](apis.md)
+* [Deployment](deployment.md)
 
 # Useful stuff
-
 * [RxJs](rxjs.md)
 * [Compilers, automatas & formal languages](compilers.md)
 
