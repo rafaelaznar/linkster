@@ -44,22 +44,8 @@ https://rafaelaznar.github.io/roadmaps
 # Useful stuff
 * [RxJs](rxjs.md)
 * [Compilers, automatas & formal languages](compilers.md)
+* [Markdown](markdown.md)
 
-## Markdown
-* [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown)
-* [Wikipedia Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [Wikipedia Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [Wikipedia Markdown Cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-* [Wikipedia Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
-* [Wikipedia Markdown Cheatsheet](https://gist.github.com/PierrePaul/4960567)
-* [Markdown GITHUB icons](https://gist.github.com/rxaviers/7360908)
-* [Markdown online editor markdownlivepreview](https://markdownlivepreview.com/)
-* [Markdown online editor](http://jbt.github.io/markdown-editor/)
-* [Markdown online editor](https://markdoc.io/sandbox?mode=preview)
-* [Markdown online editor dillinger](https://dillinger.io/)
-* [Markdown online editor stackedit](https://stackedit.io/)
-* [Markdown online editor pandao](https://pandao.github.io/editor.md/en.html)
-* [Casual-Markdown-Doc provide a quick solution to use markdown as document.](https://github.com/casualwriter/casual-markdown-doc)
 
 ## Didactics
 * [10 Lessons of an MIT Education by Gian-Carlo Rota](https://www.math.tamu.edu/~cyan/Rota/mitless.html)
