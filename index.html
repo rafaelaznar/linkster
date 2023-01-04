@@ -5,28 +5,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
         </script>
-
-    <title>ROADMAPS</title>
-
+    <title>CURATED LINKS</title>
     <link rel="shortcut icon" type="image/png" href="roadmaps.png" />
-
 </head>
 
 <body>
-
     <div class="container">
         <div class="row">
             <div class="col">
                 <div class="center-block text-center m-5">
-                    <h1>ROADMAPS</h1>
+                    <h1>CURATED LINKS</h1>
                 </div>
             </div>
         </div>
@@ -53,56 +47,56 @@
             <p id="template"></p>
         </div>
     </div>
-
     <script>
         document.addEventListener("DOMContentLoaded", function (event) {
             let bannedWords = ['into', 'from', 'less', 'have', 'here', 'just', 'they',
-                'must', 'about', 'first', 'with', 'what', 'need'];
+                'must', 'about', 'first', 'with', 'what', 'need', 'more', 'will', 'your'];
             let terms = [];
             let links = [];
             let loadtemplate = function (filename) {
-
                 fetch(filename).then(function (response) {
                     return response.text();
                 }).then(function (code) {
+                    if (code) {
+                        const regexMdLinks = /\[([^\[]+)\](\(.*\))/gm
+                        const matches = code.match(regexMdLinks)
+                        if (matches) {
+                            const singleMatch = /\[([^\[]+)\]\((.*)\)/
+                            for (var i = 0; i < matches.length; i++) {
+                                var text = singleMatch.exec(matches[i])
+                                links.push({ w: 0, s: false, l: text[2], t: text[1] })
+                                words = text[1].match(/\w+|\s+|#[0-9]+|[^\s\w]+/g)
+                                words = words.map(w => w.toLowerCase());
+                                for (var j = 0; j < words.length; j++) {
+                                    if (words[j].length > 3) {
+                                        inside = false;
+                                        for (var k = 0; k < terms.length; k++) {
+                                            if (words[j] == terms[k].w.toLowerCase()) {
+                                                inside = true;
+                                                terms[k].l.push(links.length - 1);
+                                                break;
+                                            }
+                                        }
+                                        if (!inside) {
+                                            terms.push({ w: words[j].toLowerCase(), l: [links.length - 1], s: false });
+                                        }
+                                    } else {
+                                        if (words[j].startsWith("#")) {
+                                            orderNumber = words[j].substring(words[j].indexOf('#') + 1)
+                                            if (Number.isInteger(parseInt(orderNumber))) {
+                                                links[links.length - 1].w = parseInt(orderNumber) + links[links.length - 1].w;
+                                            }
 
-                    const regexMdLinks = /\[([^\[]+)\](\(.*\))/gm
-                    const matches = code.match(regexMdLinks)
-
-                    const singleMatch = /\[([^\[]+)\]\((.*)\)/
-                    for (var i = 0; i < matches.length; i++) {
-                        var text = singleMatch.exec(matches[i])
-                        links.push({ w: 0, s: false, l: text[2], t: text[1] })
-                        words = text[1].match(/\w+|\s+|#[0-9]+|[^\s\w]+/g)
-                        words = words.map(w => w.toLowerCase());
-                        for (var j = 0; j < words.length; j++) {
-                            if (words[j].length > 3) {
-                                inside = false;
-                                for (var k = 0; k < terms.length; k++) {
-                                    if (words[j] == terms[k].w.toLowerCase()) {
-                                        inside = true;
-                                        terms[k].l.push(links.length - 1);
-                                        break;
+                                        }
                                     }
-                                }
-                                if (!inside) {
-                                    terms.push({ w: words[j].toLowerCase(), l: [links.length - 1], s: false });
-                                }
-                            } else {
-                                if (words[j].startsWith("#")) {
-                                    orderNumber = words[j].substring(words[j].indexOf('#') + 1)
-                                    if (Number.isInteger(parseInt(orderNumber))) {
-                                        links[links.length - 1].w = parseInt(orderNumber) + links[links.length - 1].w;
-                                    }
-
                                 }
                             }
                         }
+                        terms = terms.filter(l => l.l.length > 1);
+                        terms = terms.map(n => ({ ...n, w: n.w.toLowerCase() }));
+                        terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0));
+                        refreshTags();
                     }
-                    terms = terms.filter(l => l.l.length > 1);
-                    terms = terms.map(n => ({ ...n, w: n.w.toLowerCase() }));
-                    terms = terms.filter(l => !bannedWords.includes(l.w)).sort((a, b) => (a.w > b.w) ? 1 : ((b.w > a.w) ? -1 : 0));
-                    refreshTags();
                 });
 
             }
@@ -129,38 +123,19 @@
             function refreshTags() {
                 const fontFactor = 0.05;
                 const fontMinimal = 0.6;
-
                 const indexedTermsArr = terms.map((t, index) => ({ ...t, i: index }));
-
                 const selectedTermsArr = indexedTermsArr.filter(t => !t.s);
                 const selectedTermsCodeArr = selectedTermsArr.map(t => `<a id="${t.i}" style="text-decoration:none;font-size:${fontMinimal + (t.l.length * fontFactor)}em" class="m-1 tag badge rounded-pill bg-primary" href="#">${t.w}</a>`);
                 const selectedTermsCodeStr = selectedTermsCodeArr.reduce((acc, curr) => acc + curr, '<p>') + '</p>';
                 document.getElementById('index').innerHTML = selectedTermsCodeStr;
-
                 const unselectedTermsArr = indexedTermsArr.filter(t => t.s);
                 const unselectedTermsCodeArr = unselectedTermsArr.map(t => `<a id="${t.i}" style="text-decoration:none;font-size:${fontMinimal + (t.l.length * fontFactor)}em" class="m-1 selectedtag badge rounded-pill bg-success" href="#">${t.w}</a>`);
                 const unselectedTermsCodeStr = unselectedTermsCodeArr.reduce((acc, curr) => acc + curr, '<p>') + '</p>';
                 document.getElementById('selected').innerHTML = unselectedTermsCodeStr;
-                /*
-                index = "<p>";
-                selected = "<p>";
-                for (var k = 0; k < terms.length; k++) {
-                    if (!terms[k].s) {
-                        index += `<a id="${k}" style="text-decoration:none;font-size:${fontMinimal + (terms[k].l.length * fontFactor)}em" class="m-1 tag badge rounded-pill bg-primary" href="#">${terms[k].w}</a>`;
-                    } else {
-                        selected += `<a id="${k}" style="text-decoration:none;font-size:${fontMinimal + (terms[k].l.length * fontFactor)}em" class="m-1 selectedtag badge rounded-pill bg-success" href="#">${terms[k].w}</a>`;
-                    }
-                }
-                index += "</p>";
-                selected += "</p>";
-                document.getElementById('index').innerHTML = index;
-                document.getElementById('selected').innerHTML = selected;
-                */
                 assignTagEvents();
                 assignSelectedTagEvents();
 
             }
-
             function assignTagEvents() {
                 let tags = document.querySelectorAll('.tag');
                 Array.from(tags).forEach(link => {
@@ -192,14 +167,16 @@
                     event.preventDefault();
                 });
             });
-            loadtemplate("README.md");
-            loadtemplate("news.md");
-            loadtemplate("foundations.md");
-            document.getElementById('clear').addEventListener('click', function (event) {
-                terms.forEach(l => l.s = false);
-                refreshTags();
-                refreshBody();
-            })
+            fetch("README.md").then(function (response) {
+                return response.text();
+            }).then(function (code) {
+                code.match(/\(\S+.md\)/g).forEach(nameFile => loadtemplate(nameFile.slice(1, -1)));
+                document.getElementById('clear').addEventListener('click', function (event) {
+                    terms.forEach(l => l.s = false);
+                    refreshTags();
+                    refreshBody();
+                })
+            });
         });
     </script>
 </body>
