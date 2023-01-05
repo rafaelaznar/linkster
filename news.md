@@ -1,5 +1,4 @@
-
-## News
+# News
 * [Hacker news](https://news.ycombinator.com/)
 * [Reddit programming News](https://old.reddit.com/r/programming/)
 * [DZone News](https://dzone.com/)
