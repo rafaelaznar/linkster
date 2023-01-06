@@ -46,6 +46,7 @@ https://rafaelaznar.github.io/roadmaps
 * [Compilers, automatas & formal languages](compilers.md)
 * [Markdown](markdown.md)
 * [Didactics](didactics.md)
+* [Lisp](lisp.md)
 * [Geek](geek.md)
 
 
