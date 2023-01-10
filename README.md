@@ -41,14 +41,16 @@ https://rafaelaznar.github.io/roadmaps
 * [APIs](apis.md)
 * [Deployment](deployment.md)
 
-# Useful stuff
-* [RxJs](rxjs.md)
-* [Compilers, automatas & formal languages](compilers.md)
-* [Markdown](markdown.md)
-* [Didactics](didactics.md)
+# Foundations
 * [Lisp](lisp.md)
 * [Prolog](prolog.md)
+* [Compilers, automatas & formal languages](compilers.md)
 * [Lambda calculus](lambda.md)
+
+# Useful stuff
+* [RxJs](rxjs.md)
 * [Randomness](randomness.md)
+* [Markdown](markdown.md)
+* [Didactics](didactics.md)
 * [Publishing](publishing.md)
-* [Geek](geek.md)
+* [Geek links](geek.md)
