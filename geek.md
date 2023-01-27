@@ -1,4 +1,5 @@
 # Geek Links
+* [Build your own ... ](https://github.com/kjj6198/build-your-own-x)
 * [Creating Shazam in Java](https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/)
 * [eBook: Why does anything exist?](https://alwaysasking.com/why-does-anything-exist/)
 * [Scratch is a big deal](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
