@@ -54,3 +54,5 @@ https://rafaelaznar.github.io/roadmaps
 * [Didactics](didactics.md)
 * [Publishing](publishing.md)
 * [Geek links](geek.md)
+* [Tools for design](design.md)
+
