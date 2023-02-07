@@ -2,7 +2,7 @@
 
 ### Curated collection of links for my personal use
 
-https://rafaelaznar.github.io/roadmaps
+https://rafaelaznar.github.io/linkster
 
 # Introduction
 * [News](news.md)
