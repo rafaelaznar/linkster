@@ -1,4 +1,5 @@
 ## Programming principles, Software design, Paradigms
+* [All Programming Philosophies Are About State](https://www.worldofbs.com/minimize-state/)
 * [Principles: SOLID principles](https://en.wikipedia.org/wiki/SOLID)
 * [Principles: SOLID: The SOLID Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 * [Principles: SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
