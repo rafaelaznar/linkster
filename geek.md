@@ -28,3 +28,4 @@
 * [I Taught ChatGPT to Invent a Language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language)
 * [Digitally sign PDF files from your commandline](https://github.com/open-pdf-sign/open-pdf-sign)
 * [Tiny spreadsheet of JavaScript](http://jsfiddle.net/ondras/hYfN3/)
+* [https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/](https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
