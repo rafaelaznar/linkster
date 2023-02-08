@@ -9,6 +9,7 @@ https://rafaelaznar.github.io/linkster
 * [Foundations](foundations.md)
 * [Books](books.md)
 * [History](history.md)
+* [Internet](internet.md)
 
 # Software engineering & Software development
 * [Programming principles, Software design, Paradigms](principles.md)
