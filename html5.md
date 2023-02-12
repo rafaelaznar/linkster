@@ -6,3 +6,4 @@
 * [Markup: HTML5 Boilerplate](https://html5boilerplate.com/)
 * [Markup: HTML5 Boilerplate initializr](http://www.initializr.com/)
 * [Markup: HTML5 Boilerplate](https://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example/)
+* [The Dialog element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
