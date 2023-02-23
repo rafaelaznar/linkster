@@ -12,6 +12,7 @@ https://rafaelaznar.github.io/linkster
 * [Internet](internet.md)
 
 # Software engineering & Software development
+* [Learn to Code](code.md)
 * [Programming principles, Software design, Paradigms](principles.md)
 * [Algorithms & Complexity](algorithms.md)
 * [Programming Languages](languages.md)
@@ -20,6 +21,7 @@ https://rafaelaznar.github.io/linkster
 * [Functional programming](fp.md)
 * [GIT & GitHub](git.md)
 * [Methodologies for teams](teams.md)
+
 
 # Web design & development
 * [CORS](cors.md)
