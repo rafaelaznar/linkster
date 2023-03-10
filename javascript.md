@@ -11,6 +11,7 @@
 * [MODERN: You might not need jQuery](https://youmightnotneedjquery.com/)
 * [MODERN: Manual de ES6](https://desarrolloweb.com/manuales/manual-de-ecmascript-6.html)
 * [MODERN: JavaScript (ES2015+) Enlightenment Grokking Modern JavaScript, In The Wild](https://frontendmasters.com/guides/javascript-enlightenment/)
+* [MODERN: All JavaScript and TypeScript features of the last 3 years](https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
 ## Javascript: Free websites to learn
 * [CLASSIC & MODERN: freecodecamp](https://www.freecodecamp.org/)
 * [#4 CLASSIC & MODERN: freecodecamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
