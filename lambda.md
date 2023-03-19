@@ -1,3 +1,5 @@
+# Category theory
+* [Category theory illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 # Lambda calculus
 * [lambda calculus: Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness)
 * [lambda calculus: To Mock a Mockingbird](https://en.wikipedia.org/wiki/To_Mock_a_Mockingbird)
