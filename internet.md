@@ -1,6 +1,7 @@
 # The Internet
 
 * [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
+* [An Introduction to Computer Networks: Peter L Dordal](https://intronetworks.cs.luc.edu/current2/html/)
 
 ## Email
 * [Email explained from first principles](https://explained-from-first-principles.com/email/)
