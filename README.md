@@ -49,6 +49,7 @@ https://rafaelaznar.github.io/linkster
 * [Prolog](prolog.md)
 * [Compilers, automatas & formal languages](compilers.md)
 * [Category theory & Lambda calculus](lambda.md)
+* [Complexity](complexity.md)
 
 # Useful stuff
 * [RxJs](rxjs.md)
