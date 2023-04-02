@@ -63,6 +63,8 @@
 * [Youtube: JavaScript: Codevolution DS:](https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
 * [Youtube: JavaScript: Codevolution ALGS: ](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
 * [Youtube: JavaScript: Codevolution ADVANCED:](https://www.youtube.com/watch?v=R9I85RhI7Cg)
+## Tricks
+* [Why Not document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 ## Javascript: Framework-less SPA's
 * [Framework-less Single Page Application](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c)
 ## Javascript: Functional programming
@@ -73,4 +75,4 @@
 * [Intro to ES6 and Functional programming in JavaScript](https://medium.com/@lizfaria/intro-to-es6-and-functional-programming-in-javascript-4bf25b7b8e63)
 * [WHY FUNCTIONAL PROGRAMMING SHOULD BE THE FUTURE OF SOFTWARE DEVELOPMENT](https://spectrum.ieee.org/functional-programming#toggle-gdpr)
 ## Code
-[Patterns: A collection of code snippets to help you optimize your web projects](https://web.dev/patterns/)
+* [Patterns: A collection of code snippets to help you optimize your web projects](https://web.dev/patterns/)
