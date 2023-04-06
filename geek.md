@@ -31,3 +31,8 @@
 * [https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/](https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
 ## Procastination
 * [neal fun](https://neal.fun/)
+## Concentration
+* [THIS IS WHY YOU SHOULDN'T INTERRUPT A PROGRAMMER](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/)
+* [Programmer Interrupted: The Real Cost of Interruption and Context Switching](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
+* [Are interruptions really worse for programmers than for other knowledge workers?](https://dev.to/_bigblind/are-interruptions-really-worse-for-programmers-than-for-other-knowledge-workers-2ij9)
+* [Why do programmers wear headphones? For the same reason that you can’tÂ juggle.](https://dev.to/andrewlucker/why-do-programmers-wear-headphones-for-the-same-reason-that-you-cantjuggle)
