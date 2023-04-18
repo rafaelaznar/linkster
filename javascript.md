@@ -76,3 +76,5 @@
 * [WHY FUNCTIONAL PROGRAMMING SHOULD BE THE FUTURE OF SOFTWARE DEVELOPMENT](https://spectrum.ieee.org/functional-programming#toggle-gdpr)
 ## Code
 * [Patterns: A collection of code snippets to help you optimize your web projects](https://web.dev/patterns/)
+## Javascript: libraries
+* [Advanced in-memory caching module for JavaScript. Inspired by Redis.](https://github.com/HeyPuter/kv.js)
