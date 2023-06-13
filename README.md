@@ -59,4 +59,5 @@ https://rafaelaznar.github.io/linkster
 * [Publishing](publishing.md)
 * [Geek links](geek.md)
 * [Tools for design](design.md)
+* [AI](ai.md)
 
