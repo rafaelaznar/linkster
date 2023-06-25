@@ -52,17 +52,6 @@
 ## Javascript: support in browsers
 * [Javascript: caniuse](https://caniuse.com/?search=ECMAScript%202015)
 * [Javasctipt: compat-table](https://kangax.github.io/compat-table/es6/)
-## Javascript: Video tutorials  
-* [Youtube: JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-* [Youtube: Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=ec8vSKJuZTk)
-* [Youtube: Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=188s)
-* [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-grocery-list)
-* [Javascript: Programming with Mosh BEGGINERS 1h:](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-* [Youtube: JavaScript: freeCodeCamp 7h:]( https://www.youtube.com/watch?v=jS4aFq5-91M)
-* [Youtube: JavaScript: Codevolution BEGGINER:](https://www.youtube.com/watch?v=XIOLqoPHCJ4)
-* [Youtube: JavaScript: Codevolution DS:](https://www.youtube.com/watch?v=poGEVboh9Rw&list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
-* [Youtube: JavaScript: Codevolution ALGS: ](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
-* [Youtube: JavaScript: Codevolution ADVANCED:](https://www.youtube.com/watch?v=R9I85RhI7Cg)
 ## Tricks
 * [Why Not document.write()?](https://csswizardry.com/2023/01/why-not-document-write/)
 ## Javascript: Framework-less SPA's
@@ -78,3 +67,5 @@
 * [Patterns: A collection of code snippets to help you optimize your web projects](https://web.dev/patterns/)
 ## Javascript: libraries
 * [Advanced in-memory caching module for JavaScript. Inspired by Redis.](https://github.com/HeyPuter/kv.js)
+* [A lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.](https://animejs.com/)
+* [Statistical methods in readable JavaScript for browsers, servers, and people.](https://simple-statistics.github.io/)
