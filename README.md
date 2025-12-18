@@ -12,6 +12,7 @@ https://rafaelaznar.github.io/linkster
 * [Internet](internet.md)
 
 # Software engineering & Software development
+* [Learning platforms](learning-platforms.md)
 * [Learn to Code](code.md)
 * [Programming principles, Software design, Paradigms](principles.md)
 * [Algorithms & Complexity](algorithms.md)
